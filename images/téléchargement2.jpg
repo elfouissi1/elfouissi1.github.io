@@ -1,0 +1,1329 @@
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="es-ES">
+<head>
+	<meta charset="UTF-8">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+
+	        <!-- Google Tag Manager -->
+        <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-KS7XPLS');</script>
+        <!-- End Google Tag Manager -->
+        
+    <!-- Mobile Specific Metas
+      –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+      <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no, minimum-scale=1.0,maximum-scale=1.0">
+
+    <!-- FONT
+      –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+    <link href="//fonts.googleapis.com/css?family=Raleway:400,300,600&#038;display=swap" rel="stylesheet" type="text/css">
+
+  <!-- Favicon -->
+  <link id="favicon" rel="shortcut icon" href="https://www.edix.com/es/wp-content/themes/edix/images/favicon.ico" type="image/x-icon">
+
+
+	<meta name='robots' content='max-image-preview:large' />
+<link rel="alternate" hreflang="es" href="https://www.edix.com/es/instituto/front-end-developer/" />
+
+	<!-- This site is optimized with the Yoast SEO plugin v14.4.1 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Front End Developer: ¿cuáles son sus funciones y salidas?</title>
+	<meta name="description" content="Front-end developer: en qué consiste esta profesión, principales objetivos y formación necesaria para trabajar en ella. Un Digital Worker que se rifan las empresas" />
+	<meta name="robots" content="index, follow" />
+	<meta name="googlebot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+	<meta name="bingbot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+	<link rel="canonical" href="https://www.edix.com/es/instituto/front-end-developer/" />
+	<meta property="og:locale" content="es_ES" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Front End Developer: ¿cuáles son sus funciones y salidas?" />
+	<meta property="og:description" content="Front-end developer: en qué consiste esta profesión, principales objetivos y formación necesaria para trabajar en ella. Un Digital Worker que se rifan las empresas" />
+	<meta property="og:url" content="https://www.edix.com/es/instituto/front-end-developer/" />
+	<meta property="og:site_name" content="Edix España" />
+	<meta property="article:published_time" content="2021-10-22T07:30:00+00:00" />
+	<meta property="article:modified_time" content="2022-07-26T15:35:15+00:00" />
+	<meta property="og:image" content="https://www.edix.com/es/wp-content/uploads/sites/2/2021/10/photo-1600132806608-231446b2e7af.jpeg" />
+	<meta property="og:image:width" content="1074" />
+	<meta property="og:image:height" content="806" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://www.edix.com/es/#website","url":"https://www.edix.com/es/","name":"Edix Espa\u00f1a","description":"Edix, la Revoluci\u00f3n Profesional en la formaci\u00f3n digital","potentialAction":[{"@type":"SearchAction","target":"https://www.edix.com/es/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"es"},{"@type":"ImageObject","@id":"https://www.edix.com/es/instituto/front-end-developer/#primaryimage","inLanguage":"es","url":"https://www.edix.com/es/wp-content/uploads/sites/2/2021/10/photo-1600132806608-231446b2e7af.jpeg","width":1074,"height":806,"caption":"Front End Developer"},{"@type":"WebPage","@id":"https://www.edix.com/es/instituto/front-end-developer/#webpage","url":"https://www.edix.com/es/instituto/front-end-developer/","name":"Front End Developer: \u00bfcu\u00e1les son sus funciones y salidas?","isPartOf":{"@id":"https://www.edix.com/es/#website"},"primaryImageOfPage":{"@id":"https://www.edix.com/es/instituto/front-end-developer/#primaryimage"},"datePublished":"2021-10-22T07:30:00+00:00","dateModified":"2022-07-26T15:35:15+00:00","author":{"@id":"https://www.edix.com/es/#/schema/person/244ae8b5de22425fd9569a8280c8e329"},"description":"Front-end developer: en qu\u00e9 consiste esta profesi\u00f3n, principales objetivos y formaci\u00f3n necesaria para trabajar en ella. Un Digital Worker que se rifan las empresas","inLanguage":"es","potentialAction":[{"@type":"ReadAction","target":["https://www.edix.com/es/instituto/front-end-developer/"]}]},{"@type":["Person"],"@id":"https://www.edix.com/es/#/schema/person/244ae8b5de22425fd9569a8280c8e329","name":"Redacci\u00f3n Edix","image":{"@type":"ImageObject","@id":"https://www.edix.com/es/#personlogo","inLanguage":"es","url":"https://secure.gravatar.com/avatar/9b84db5e3ec56ab907f5168fb167ae53?s=96&d=mm&r=g","caption":"Redacci\u00f3n Edix"},"description":"Los Expertos Digitales necesitan estar al d\u00eda para hacer un buen trabajo. \u00bfConoces las \u00faltimas tendencias en tecnolog\u00eda, negocios o productividad? Nosotros te las contamos."}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//www.google.com' />
+<link rel='dns-prefetch' href='//code.jquery.com' />
+<link rel='dns-prefetch' href='//cdnjs.cloudflare.com' />
+<link rel='dns-prefetch' href='//stackpath.bootstrapcdn.com' />
+<link href='https://fonts.gstatic.com' crossorigin rel='preconnect' />
+<link data-minify="1" rel='stylesheet' id='contact-form-7-css'  href='https://www.edix.com/es/wp-content/cache/min/2/es/wp-content/plugins/contact-form-7/includes/css/styles-9b0907456d80c8bd57bd666b91b9f057.css' type='text/css' media='all' />
+<link data-minify="1" rel='stylesheet' id='wpml-tm-admin-bar-css'  href='https://www.edix.com/es/wp-content/cache/min/2/es/wp-content/plugins/wpml-translation-management/res/css/admin-bar-style-19f8c4a3e8346e562963520273aee790.css' type='text/css' media='all' />
+<link data-minify="1" rel='stylesheet' id='edix-normalize-css'  href='https://www.edix.com/es/wp-content/cache/min/2/es/wp-content/themes/edix/css/utils/normalize-aeccb0d96601a781b44ee66165ccf300.css' type='text/css' media='all' />
+<link rel='stylesheet' id='block_library-css'  href='https://www.edix.com/es/wp-content/themes/edix/css/block_library.min.css?ver=20220910' type='text/css' media='all' />
+<link data-minify="1" rel='stylesheet' id='edix-style-css'  href='https://www.edix.com/es/wp-content/cache/min/2/es/wp-content/themes/edix/css/style-19905e2a35cc25011d52a07cd3980f80.css' type='text/css' media='all' />
+<link data-minify="1" rel='stylesheet' id='raiz-style-css'  href='https://www.edix.com/es/wp-content/cache/min/2/es/wp-content/themes/edix/style-bddb94d9f689bbdb99402b10943bbbc1.css' type='text/css' media='all' />
+<link rel="https://api.w.org/" href="https://www.edix.com/es/wp-json/" /><link rel="alternate" type="application/json" href="https://www.edix.com/es/wp-json/wp/v2/posts/46262" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.edix.com/es/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.edix.com/es/wp-includes/wlwmanifest.xml" /> 
+<link rel='shortlink' href='https://www.edix.com/es/?p=46262' />
+<link rel="alternate" type="application/json+oembed" href="https://www.edix.com/es/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.edix.com%2Fes%2Finstituto%2Ffront-end-developer%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.edix.com/es/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.edix.com%2Fes%2Finstituto%2Ffront-end-developer%2F&#038;format=xml" />
+<meta name="generator" content="WPML ver:4.3.15 stt:2;" />
+
+<link rel="preload" as="font" href="https://www.edix.com/es/wp-content/themes/edix/fonts/rene_bieder_-_galano_grotesque_semibold-webfont.woff2" crossorigin>
+<link rel="preload" as="font" href="https://www.edix.com/es/wp-content/themes/edix/fonts/rene_bieder_-_galano_grotesque-webfont.woff2" crossorigin><link rel="pingback" href="https://www.edix.com/es/xmlrpc.php">        <!-- El aviso de consentimiento de cookies de OneTrust comienza para edix.com. -->
+
+        <script src="https://cdn.cookielaw.org/scripttemplates/otSDKStub.js"  type="text/javascript" charset="UTF-8" data-domain-script="918d7a5c-032d-41b4-9671-603a2969702a"  defer></script>
+        <script type="text/javascript">
+        function OptanonWrapper() { }
+        </script>
+        
+        <!-- El aviso de consentimiento de cookies de OneTrust finaliza para edix.com. -->
+        <link rel="icon" href="https://www.edix.com/es/wp-content/uploads/sites/2/2022/05/favicon.png" sizes="32x32" />
+<link rel="icon" href="https://www.edix.com/es/wp-content/uploads/sites/2/2022/05/favicon.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://www.edix.com/es/wp-content/uploads/sites/2/2022/05/favicon.png" />
+<meta name="msapplication-TileImage" content="https://www.edix.com/es/wp-content/uploads/sites/2/2022/05/favicon.png" />
+<noscript><style id="rocket-lazyload-nojs-css">.rll-youtube-player, [data-lazy-src]{display:none !important;}</style></noscript>
+  <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css"/>
+
+  <!-- polyfill para safari para smooth scroll, meter solo si es safari -->
+  <script type="text/javascript">
+    // Método para comprobar si es safari
+
+    const isSafari = () => {
+      const safaris = navigator.userAgent.toLowerCase().indexOf("safari/") > -1;
+      const chrome = navigator.userAgent.toLowerCase().indexOf("chrome/") > -1;
+      return safaris && !chrome;
+    }
+    //var isSafari = window.safari !== undefined;
+    if (isSafari) {
+      var head = document.getElementsByTagName("head")[0];
+      var script = document.createElement("script");
+      script.setAttribute("type", "text/javascript");
+      script.setAttribute("src", "https://unpkg.com/smoothscroll-polyfill/dist/smoothscroll.min.js");
+      head.appendChild(script);
+
+      var head = document.getElementsByTagName("head")[0];
+      var script = document.createElement("script");
+      script.setAttribute("type", "text/javascript");
+      script.setAttribute("src", "https://unpkg.com/smoothscroll-anchor-polyfill");
+      head.appendChild(script);
+    }
+  </script>
+  
+</head>
+
+<body class="">
+	        <!-- Google Tag Manager (noscript) -->
+        <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KS7XPLS"
+        height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+        <!-- End Google Tag Manager (noscript) -->
+        
+      
+      <header id="site-header" class="headers is-sticky" data-module="header" data-sticky="true">
+        <div class="headers__container e-container">
+          <a class="headers__logo" id="logo" href="https://www.edix.com/es/" title="Formación Online: Edix. Cursos y Formación Profesional">
+            <img class="headers__img skip-lazy"  src="https://www.edix.com/es/wp-content/themes/edix/images/modules/edx_logo_edix.svg" alt="logo Edix" title="Edix, formación">
+          </a>
+          <!-- menu desktop -->
+          <nav class="headers__nav">
+                 
+            
+            <div class="headers__nav-container">
+                <ul class="headers__content" id="menu-menu-principal">
+                                        <li class="headers__item ">
+                          <a class="headers__link" href="https://www.edix.com/es/revolucion-profesional/" title="Sobre edix">Sobre edix</a>
+                        </li>
+                                            <li class="headers__item ">
+                          <a class="headers__link" href="https://www.edix.com/es/cursos/" title="Bootcamps">Bootcamps</a>
+                        </li>
+                                            <li class="headers__item ">
+                          <a class="headers__link" href="https://www.edix.com/es/fp/" title="Grados Superiores FP">Grados Superiores FP</a>
+                        </li>
+                                            <li class="headers__item ">
+                          <a class="headers__link" href="https://www.edix.com/es/master-fp/" title="Másteres FP">Másteres FP</a>
+                        </li>
+                                        <li class="headers__item-login">
+                    <span class="headers__link shoot-link-blank" data-href="https://campus.edix.com/">
+                      <svg xmlns="http://www.w3.org/2000/svg" width="21" height="25" viewBox="0 0 21 25" fill="none">
+                        <path d="M15.1364 6.40024C15.1364 3.82659 13.05 1.74023 10.4763 1.74023C7.90267 1.74023 5.81641 3.82659 5.81641 6.40024V8.59023C5.81641 11.1639 7.90267 13.2502 10.4763 13.2502C13.05 13.2502 15.1364 11.1639 15.1364 8.59023V6.40024Z" stroke="white" stroke-width="2" stroke-miterlimit="10"></path>
+                        <path d="M19.9062 24.26V19.12C19.9062 15.35 10.5363 15.23 10.5363 15.23C10.5363 15.23 1.15625 15.35 1.15625 19.12V24.26" stroke="white" stroke-width="2" stroke-miterlimit="10"></path>
+                      </svg>
+                      <span class="headers__button-text">Campus</span>
+                </span>
+                  </li>
+                </ul>
+          </nav>
+          <!-- nav buttons -->
+          <nav class="headers__buttons">
+            <ul class="headers__buttons-container">
+              <li class="headers__button-item">
+                <span class="headers__login shoot-link-blank" data-href="https://campus.edix.com/">
+                  <svg xmlns="http://www.w3.org/2000/svg" width="21" height="25" viewBox="0 0 21 25" fill="none">
+                    <path d="M15.1364 6.40024C15.1364 3.82659 13.05 1.74023 10.4763 1.74023C7.90267 1.74023 5.81641 3.82659 5.81641 6.40024V8.59023C5.81641 11.1639 7.90267 13.2502 10.4763 13.2502C13.05 13.2502 15.1364 11.1639 15.1364 8.59023V6.40024Z" stroke="white" stroke-width="2" stroke-miterlimit="10"></path>
+                    <path d="M19.9062 24.26V19.12C19.9062 15.35 10.5363 15.23 10.5363 15.23C10.5363 15.23 1.15625 15.35 1.15625 19.12V24.26" stroke="white" stroke-width="2" stroke-miterlimit="10"></path>
+                  </svg>
+                  <span class="headers__button-text">Campus</span>
+                </span>
+              </li>
+            </ul>
+          </nav>
+          <div class="preheader">
+            <picture class="preheader__link shoot-link-blank" data-href="https://www.unir.net/">
+              <img src="https://www.edix.com/es/wp-content/themes/edix/images/modules/edx_logo-edx-white-header.svg" alt="UNIR" class="skip-lazy">
+                </picture>
+          </div>
+          <!-- nav hamburguesa -->
+          <div id="nav-icon" class="headers__hamburguer" data-open="false" data-header="hamburguer">
+            <div class="headers__hamburguer-icon"></div>
+          </div> 
+        </div>
+      </header>
+  <section id="blog-menu" class="blog-menu bg-blue-light rounded  b-radius mno">
+    <div class="container no-animation">
+      <nav>
+      <ul id="menu-temas-blog" class="menu"><li id="menu-item-37123" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-37123"><a href="https://www.edix.com/es/instituto/formacion/consejos/">Consejos</a></li>
+<li id="menu-item-37129" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-37129"><a href="https://www.edix.com/es/instituto/formacion/significados/">Glosario</a></li>
+<li id="menu-item-37546" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-37546"><a href="https://www.edix.com/es/instituto/formacion/formacion/">Formación</a></li>
+<li id="menu-item-37139" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-37139"><a href="https://www.edix.com/es/sobre/profesiones-con-futuro/">Profesiones con futuro</a></li>
+<li id="menu-item-38732" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-38732"><a href="https://www.edix.com/es/instituto/razones-formacion-online/">Formacion online</a></li>
+<li id="menu-item-38522" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-38522"><a href="https://www.edix.com/es/sobre/webinars/">Webinar</a></li>
+<li id="menu-item-37549" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-37549"><a href="https://www.edix.com/es/sobre/cro/">CRO</a></li>
+<li id="menu-item-37550" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-37550"><a href="https://www.edix.com/es/sobre/analitica/">Analítica</a></li>
+<li id="menu-item-37552" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-37552"><a href="https://www.edix.com/es/sobre/contenidos/">Contenidos</a></li>
+<li id="menu-item-37555" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-37555"><a href="https://www.edix.com/es/sobre/ecommerce/">ecommerce</a></li>
+<li id="menu-item-37556" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-37556"><a href="https://www.edix.com/es/sobre/growth-marketing/">Growth Marketing</a></li>
+</ul>      </nav>
+      <span class="link-primary expander"><span class="text">Ver <span class="mas-menos"></span> temas </span><i class="caret-down"></i></span>
+    </div>
+  </section>
+
+  <!-- HERO HOME -->
+    <section id="hero-post" class="hero hero-big text-white hero-normal text-boxed">
+    <picture class="hero-bg">
+      <!-- tatamiento vertical -->   
+      <source media="(orientation:portrait)" data-lazy-srcset="https://www.edix.com/es/wp-content/uploads/sites/2/2021/10/photo-1600132806608-231446b2e7af.jpeg"> 
+      <!-- tatamiento version_horizontal -->  
+      <img alt="Front End Developer" title="Front End Developer" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" data-lazy-src="https://www.edix.com/es/wp-content/uploads/sites/2/2021/10/photo-1600132806608-231446b2e7af.jpeg">
+      <noscript>
+        <img alt="Front End Developer" title="Front End Developer" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" data-lazy-src="https://www.edix.com/es/wp-content/uploads/sites/2/2021/10/photo-1600132806608-231446b2e7af.jpeg">
+      </noscript>   
+    </picture>
+    <div class="data-container d-flex">
+      <div class="container justify-content-center align-self-center">
+      	<div class="data-container-mobile d-flex">
+          <div class="content-center justify-content-center align-self-center">
+            <div class="row">
+              <nav aria-label="breadcrumb" class="d-none d-lg-block col-12">
+              <ol class="breadcrumb"><li class="breadcrumb-item"><a href="https://www.edix.com/es/">Home</a></li><li class="breadcrumb-item"><a href="https://www.edix.com/es/instituto/formacion/formacion/" rel="category tag">Formación</a></li><li class="breadcrumb-item active" aria-current="page">Front-end developer: un perfil de presente y futuro</li></ol>              </nav>
+              <div class="col-11 col-xl-8">
+                <p><small class="date text-small">Última actualización: 26 · 07 · 2022</small></p>
+                <h1 class="mtno h2">Front-end developer: un perfil de presente y futuro</h1>
+                El front-end developer o desarrollador front-end se ha convertido en un perfil clave dentro del sector IT. Su principal función es la de traducir el diseño visual de una web a código HTML, CSS y JavaScript. Aprende las distintas funciones de este rol profesional, sus salidas y requisitos.               </div>
+            </div>
+      	  </div>
+      	</div>
+     </div>
+   </div>
+  </section>
+
+<!-- Contenido
+–––––––––––––––––––––––––––––––––––––––––––––––––– -->
+<main id="main" class="container entry-content">
+  <div class="row section">
+	<div class="col-lg-8">
+    
+<p>Hablar de front-end developer es hablar de uno de los perfiles laborales más demandados a día de hoy que, además, tiene grandes perspectivas de futuro (por eso tenemos los <a href="https://www.edix.com/es/fp/">cursos de FP </a>de <a href="https://www.edix.com/es/fp/daw-desarrollo-de-aplicaciones-web/">DAW</a> y <a href="https://www.edix.com/es/fp/desarrollo-de-aplicaciones-multiplataforma-dam/">DAM</a>). En el apogeo de los procesos de digitalización de las empresas, de la economía digital y del ecommerce hacen falta desarrolladores web con perfiles híbridos, que cuenten con conocimientos de programación pero también con nociones de diseño. ¿Y cuál es ese perfil? El del <strong>desarrollador front-end</strong>.</p>
+
+
+
+<div class="wp-block-media-text alignwide is-stacked-on-mobile is-image-fill"><figure data-bg="https://www.edix.com/es/wp-content/uploads/sites/2/2020/10/checklist-web_1080-576x1024.jpg" class="wp-block-media-text__media rocket-lazyload" style="background-position:50% 50%"><img width="576" height="1024" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20576%201024'%3E%3C/svg%3E" alt="checklist para lanzar una web" class="wp-image-14132 size-full" data-lazy-srcset="https://www.edix.com/es/wp-content/uploads/sites/2/2020/10/checklist-web_1080-576x1024.jpg 576w, https://www.edix.com/es/wp-content/uploads/sites/2/2020/10/checklist-web_1080-169x300.jpg 169w, https://www.edix.com/es/wp-content/uploads/sites/2/2020/10/checklist-web_1080-768x1365.jpg 768w, https://www.edix.com/es/wp-content/uploads/sites/2/2020/10/checklist-web_1080-864x1536.jpg 864w, https://www.edix.com/es/wp-content/uploads/sites/2/2020/10/checklist-web_1080.jpg 1080w" data-lazy-sizes="(max-width: 576px) 100vw, 576px" data-lazy-src="https://www.edix.com/es/wp-content/uploads/sites/2/2020/10/checklist-web_1080-576x1024.jpg" /><noscript><img width="576" height="1024" src="https://www.edix.com/es/wp-content/uploads/sites/2/2020/10/checklist-web_1080-576x1024.jpg" alt="checklist para lanzar una web" class="wp-image-14132 size-full" srcset="https://www.edix.com/es/wp-content/uploads/sites/2/2020/10/checklist-web_1080-576x1024.jpg 576w, https://www.edix.com/es/wp-content/uploads/sites/2/2020/10/checklist-web_1080-169x300.jpg 169w, https://www.edix.com/es/wp-content/uploads/sites/2/2020/10/checklist-web_1080-768x1365.jpg 768w, https://www.edix.com/es/wp-content/uploads/sites/2/2020/10/checklist-web_1080-864x1536.jpg 864w, https://www.edix.com/es/wp-content/uploads/sites/2/2020/10/checklist-web_1080.jpg 1080w" sizes="(max-width: 576px) 100vw, 576px" /></noscript></figure><div class="wp-block-media-text__content">
+<p><strong>Un desarrollador front-end es el programador que se encarga de que una web sea atractiva para el usuario y, al mismo tiempo, funcione correctamente. </strong></p>
+
+
+
+<p>Su alta demanda hace que la de front-end developer se coloque en lo alto del ranking de una de las <a href="https://www.edix.com/es/instituto/trabajos-mejor-pagados/">profesiones más cotizadas</a>. Es más, apenas tiene paro. Pero ojo, porque encontrar empleo pasa por saber cómo formarse para <a href="https://www.edix.com/es/instituto/como-ser-programador/">llegar a ser un desarrollador web</a> front-end a la altura que hoy requiere el mundo laboral. Y ¿lo más importante? Actualizarse y estar al día, porque las herramientas y técnicas que usa un desarrollador front-end están en constante cambio y evolución. </p>
+
+
+
+<p>¿Pero qué hace un front-end exactamente y qué necesita saber? Te lo desvelamos a continuación.</p>
+</div></div>
+
+
+
+<h2><strong>¿Qué hace un front-end developer?</strong></h2>
+
+
+
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis:33.33%"></div>
+
+
+
+<div class="wp-block-column" style="flex-basis:66.66%">
+<p>Un desarrollador front-end <strong>trabaja la interfaz de usuario desde el punto de vista del código, para que la interacción con el sistema sea posible</strong>. Por lo tanto, se encarga de la parte visual de la web (de todo aquello que puedes ver en tu explorador) haciendo que su diseño sea intuitivo y atractivo.</p>
+
+
+
+<p>Pero, ojo, porque, aunque lo parezca, el <strong>front-end no es un diseñador</strong>, sino que<strong> recoge los documentos y directrices del equipo de diseño para trasladarlas a código</strong> y, ¡chas!, hace su magia convirtiendo esas ideas en realidad. Por lo tanto, que el desarrollador conozca los <em>basics</em> del buen diseño gráfico e interactivo será un plus para su desempeño.</p>
+
+
+
+<p>Al fin y al cabo, su trabajo está estrechamente ligado al de los diseñadores UX y al de los <a href="https://www.edix.com/es/instituto/backend-developer/">desarrolladores back-end</a>. ¿La diferencia con estos últimos? Podemos decir que el back-end es la ‘cara oculta’, ya que es desarrollo desde el servidor, la creación de código que permite el funcionamiento de una web; mientras que el front-end (desarrollo frontal)<strong> trabaja desde el lado del cliente</strong>, interpretando y adaptando lenguajes de desarrollo web para crear la experiencia final de ese cliente/usuario: <strong>es la forma en la que el diseño se implementa realmente en la web.</strong></p>
+
+
+
+<p>Un desarrollador front-end, además de definir la estructura de la web, debe facilitar la navegación del usuario, teniendo en cuenta la usabilidad y legibilidad de la web o app. Así, es clave la conexión y <strong>buena comunicación </strong>del front-end web developer con sus aliados: el diseñador UX y el desarrollador backend.</p>
+
+
+
+<h3>Funciones del front-end developer</h3>
+
+
+
+<p>Por lo tanto, las funciones del front-end se podrían resumir en:</p>
+
+
+
+<ul><li>Traducir diseños a lenguaje de programación.</li><li>Desarrollar la parte visual y estructura de un site o app web, además de mantener y optimizar sitios y apps web e interfaces de usuario.</li><li>Facilitar la navegación del usuario y mejorar la usabilidad e interacción con el sitio en cualquier dispositivo o explorador (revisar tiempo de carga de la web, hacer diseños responsivos, escribir código mantenible, asegurar la accesibilidad de la web&#8230;).</li><li>Ocuparse de los componentes externos del site o app web y gestionar el flujo de trabajo del software.</li><li>Implementar prácticas de SEO on page.</li></ul>
+</div>
+</div>
+
+
+
+<p></p>
+
+
+
+<p><strong>Una de las principales tareas del front-end es la de asegurarse de que su web sea <em>cross-browser</em> (que se vea correctamente en diferentes navegadores), <em>cross-platform</em> (en diferentes sistemas operativos) y <em>cross-device</em> (en diferentes dispositivos).</strong></p>
+
+
+
+<figure class="wp-block-image size-large"><img width="1024" height="576" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20576'%3E%3C/svg%3E" alt="Mujer programa en Javascript" class="wp-image-36607" data-lazy-srcset="https://www.edix.com/es/wp-content/uploads/sites/2/2021/02/mujer-programa-javascript-1024x576.jpg 1024w, https://www.edix.com/es/wp-content/uploads/sites/2/2021/02/mujer-programa-javascript-300x169.jpg 300w, https://www.edix.com/es/wp-content/uploads/sites/2/2021/02/mujer-programa-javascript-768x432.jpg 768w, https://www.edix.com/es/wp-content/uploads/sites/2/2021/02/mujer-programa-javascript-1536x864.jpg 1536w, https://www.edix.com/es/wp-content/uploads/sites/2/2021/02/mujer-programa-javascript.jpg 1920w" data-lazy-sizes="(max-width: 1024px) 100vw, 1024px" data-lazy-src="https://www.edix.com/es/wp-content/uploads/sites/2/2021/02/mujer-programa-javascript-1024x576.jpg" /><noscript><img width="1024" height="576" src="https://www.edix.com/es/wp-content/uploads/sites/2/2021/02/mujer-programa-javascript-1024x576.jpg" alt="Mujer programa en Javascript" class="wp-image-36607" srcset="https://www.edix.com/es/wp-content/uploads/sites/2/2021/02/mujer-programa-javascript-1024x576.jpg 1024w, https://www.edix.com/es/wp-content/uploads/sites/2/2021/02/mujer-programa-javascript-300x169.jpg 300w, https://www.edix.com/es/wp-content/uploads/sites/2/2021/02/mujer-programa-javascript-768x432.jpg 768w, https://www.edix.com/es/wp-content/uploads/sites/2/2021/02/mujer-programa-javascript-1536x864.jpg 1536w, https://www.edix.com/es/wp-content/uploads/sites/2/2021/02/mujer-programa-javascript.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></noscript></figure>
+
+
+
+<div class="wp-block-columns">
+<div class="wp-block-column">
+<h2><strong>Salidas y sueldos del front-end developer</strong></h2>
+
+
+
+<p>Como apuntábamos antes, el front-end developer es una de esas profesiones en las que el paro no existe. Sus altas tasas de inserción laboral se deben a que además de ser un puesto necesario por la creciente digitalización global; es un <strong>perfil profesional requerido en muy diversos sectores y tipos de empresa</strong>, más allá del propio campo de IT.</p>
+</div>
+
+
+
+<div class="wp-block-column">
+<p>Y, además, un front-end puede encontrar hueco tanto en una startup como en una pyme, en una agencia web, en una multinacional o incluso trabajando como freelance. Por ello, un desarrollador front-end puede trabajar para sectores tan dispares como el propiamente tecnológico, el de la salud, el de la arquitectura, el de la hostelería&#8230; y en un sinfín de ámbitos más; en definitiva, allá donde se precisen soluciones tech.</p>
+
+
+
+<p>Esta variedad de empresas en las que el front-end puede encontrar su ‘hueco’ es lo que hace que el rango salarial sea bastante amplio. No todos los desarrolladores front-end ganan lo mismo, ya que <strong>su salario depende de su especialidad, experiencia y del tipo de empresa</strong> en el que trabajen o de las tareas que tenga asociadas. De todas formas, los sueldos son buenos y oscilan entre los 20.000 euros para un desarrollador junior hasta los 45.000 euros o más para un desarrollador senior (recuerda que son cifras aproximadas).</p>
+</div>
+</div>
+
+
+
+<h2><strong>Requisitos para ser desarrollador front-end</strong></h2>
+
+
+
+<p>Llegados a este punto es lógico que te preguntes cómo llegar a ser front-end developer, ¿qué necesito para ser front-end? ¿Es muy complicado? Ya te decimos que no, pero toma nota para dar con las claves formativas y con aquellas características que deberías cumplir para llegar a tu objetivo:</p>
+
+
+
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis:33.33%"></div>
+
+
+
+<div class="wp-block-column" style="flex-basis:66.66%">
+<ol><li>Dominar los lenguajes de programación <strong>HTML, CSS Y <a href="https://www.edix.com/es/instituto/javascript/">JavaScript</a></strong> para poder aplicar el diseño a la web o app que se proponga. Por cierto ¿Sabes cuales son los <a href="https://www.edix.com/es/instituto/lenguajes-de-programacion/">lenguajes de programación más usados</a>?</li><li>Tener conocimientos sobre <strong>teorías de diseño y composición:</strong> no olvides que trabaja del lado visible para el cliente, por lo que tiene que crear páginas eficientes y atractivas.</li><li>Contar con habilidades en <strong>diseño visual y en diseño UX.</strong></li><li>Saber trabajar con <strong>frameworks, patrones de diseño y CMS.</strong></li><li>Conocer el trabajo de <strong>backend y diseño UX,</strong> pues sus trabajos están interconectados y deberá tener una buena comunicación con los miembros de estos equipos.</li><li>Conocer en profundidad<strong> GIT</strong> (un sistema de control de versiones, herramienta colaborativa entre desarrolladores).</li><li>Saber cómo <strong>optimizar los recursos</strong> consumidos por una app, a través del servidor.</li><li>Saber cómo integrar el <strong>SEO on page</strong> en el desarrollo web.</li></ol>
+</div>
+</div>
+
+
+
+<p>Como ves, se trata de un perfil con <a href="https://www.edix.com/es/instituto/quiero-ser-programador-daw-dam/" target="_blank" aria-label="undefined (abre en una nueva pestaña)" rel="noreferrer noopener">conocimientos técnicos en programación </a>a los que se suma la capacidad creativa para traducir información de forma interactiva, funcional y visualmente atractiva. Pero ¡ojo! Porque además un front-end debería contar con una serie de <strong>soft skills clave </strong>como son el buen gusto, la organización, la adaptabilidad, la curiosidad, el trabajo en equipo y el autoaprendizaje.</p>
+
+
+
+<h3><strong>Las principales tecnologías front-end que debe dominar</strong></h3>
+
+
+
+<p>Aunque en el listado anterior sobre los requisitos de un front-end ya te hemos dado algunas pistas, ahora te hablaremos con más detalle sobre las principales tecnologías que deberías dominar. Y recuerda, decimos ‘principales’ porque si algo debe hacer un desarrollador front-end es estar totalmente al día de las tendencias en el ámbito tecnológico y ser capaz de adaptarse rápidamente a los cambios.</p>
+
+
+
+<div class="wp-block-media-text alignwide is-stacked-on-mobile is-image-fill"><figure data-bg="https://www.edix.com/es/wp-content/uploads/sites/2/2021/05/programador-DAW-o-DAM-576x1024.jpg" class="wp-block-media-text__media rocket-lazyload" style="background-position:50% 50%"><img width="576" height="1024" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20576%201024'%3E%3C/svg%3E" alt="Programador de DAW o DAM" class="wp-image-39922 size-full" data-lazy-srcset="https://www.edix.com/es/wp-content/uploads/sites/2/2021/05/programador-DAW-o-DAM-576x1024.jpg 576w, https://www.edix.com/es/wp-content/uploads/sites/2/2021/05/programador-DAW-o-DAM-169x300.jpg 169w, https://www.edix.com/es/wp-content/uploads/sites/2/2021/05/programador-DAW-o-DAM-768x1365.jpg 768w, https://www.edix.com/es/wp-content/uploads/sites/2/2021/05/programador-DAW-o-DAM-864x1536.jpg 864w, https://www.edix.com/es/wp-content/uploads/sites/2/2021/05/programador-DAW-o-DAM.jpg 1080w" data-lazy-sizes="(max-width: 576px) 100vw, 576px" data-lazy-src="https://www.edix.com/es/wp-content/uploads/sites/2/2021/05/programador-DAW-o-DAM-576x1024.jpg" /><noscript><img width="576" height="1024" src="https://www.edix.com/es/wp-content/uploads/sites/2/2021/05/programador-DAW-o-DAM-576x1024.jpg" alt="Programador de DAW o DAM" class="wp-image-39922 size-full" srcset="https://www.edix.com/es/wp-content/uploads/sites/2/2021/05/programador-DAW-o-DAM-576x1024.jpg 576w, https://www.edix.com/es/wp-content/uploads/sites/2/2021/05/programador-DAW-o-DAM-169x300.jpg 169w, https://www.edix.com/es/wp-content/uploads/sites/2/2021/05/programador-DAW-o-DAM-768x1365.jpg 768w, https://www.edix.com/es/wp-content/uploads/sites/2/2021/05/programador-DAW-o-DAM-864x1536.jpg 864w, https://www.edix.com/es/wp-content/uploads/sites/2/2021/05/programador-DAW-o-DAM.jpg 1080w" sizes="(max-width: 576px) 100vw, 576px" /></noscript></figure><div class="wp-block-media-text__content">
+<ul><li><strong>HTML, CSS y JavaScript:</strong> porque estas son las bases del desarrollo web. HTML es el lenguaje de programación por excelencia y el componente que estructura la web, el CSS nos ayuda a definir los estilos de la web o app y JavaScript transforma lo estático en interactivo.</li><li><strong>Frameworks front-end:</strong> son paquetes que contienen código prescrito, estandarizado en archivos y carpetas. Algunos de los<a aria-label="undefined (abre en una nueva pestaña)" href="https://www.edix.com/es/instituto/framework/" target="_blank" rel="noreferrer noopener"> frameworks</a> para front-end más populares son Angular, React, Vue o Qooxdoo. Cabe destacar la importancia de los frameworks que hacen posible el <em>responsive web design.</em></li><li><strong>Biblioteca jQuery:</strong> aunque hay muchas bibliotecas, esta es una de las más utilizadas. Es clave en el día a día del front-end, ya que te ahorrará mucho tiempo y esfuerzo (permite a los desarrolladores reutilizar una y otra vez códigos o funciones, sin tener que empezar de cero).</li><li><strong>Herramientas para la creación de interfaces:</strong> herramientas como <a aria-label="undefined (abre en una nueva pestaña)" href="https://www.edix.com/es/instituto/adobe-xd/" target="_blank" rel="noreferrer noopener">Adobe XD</a> (Adobe Experience Design CC), Sketch, Invision o Figma nos permitirán hacer tareas de diseño y prototipado de aplicaciones web.</li></ul>
+</div></div>
+
+
+
+<p>Como apuntamos antes, estas son solo algunas de las tecnologías front-end, ya que un desarrollador tendrá que conocer también cómo funcionan las <a href="https://www.edix.com/es/instituto/api/">APIs</a> avanzadas, las nuevas versiones del lenguaje ECMAScript, así como las diversas herramientas de desarrollo y metalenguajes que existen.Pero que no cunda el pánico porque, aunque parezca algo inabarcable o muy complejo, no tiene por qué serlo. Solo necesitas pasión, formación y constancia. </p>
+
+
+
+<p>¿Te apetece dar un primer paso en este mundo y descubrir cómo ser front-end developer? Puedes darlo con Edix a través de nuestro <a aria-label="undefined (abre en una nueva pestaña)" href="https://www.edix.com/es/fp/daw-desarrollo-de-aplicaciones-web/" target="_blank" rel="noreferrer noopener">grado de FP de Desarrollo de aplicaciones web DAW con perfil en MEAN Stack y Full Stack</a>; una formación súper completa con la que adentrarte en muy poco tiempo pero con paso firme en el apasionante mundo del desarrollo web.</p>
+	  <div class="blue-resume">
+      	<p>El artículo Front-end developer: un perfil de presente y futuro fue escrito el 22 de octubre de 2021 y actualizado por última vez el 26 de julio de 2022 y guardado bajo la categoría <a href="https://www.edix.com/es/instituto/formacion/formacion/">Formación</a>. Puedes encontrar el post en el que hablamos sobre Front-end developer: en qué consiste esta profesión, principales objetivos y formación necesaria para trabajar en ella. Un Digital Worker que se rifan las empresas  bajo las siguientes etiquetas <a class="label" href="https://www.edix.com/es/sobre/profesiones-con-futuro/">Profesiones con futuro</a>, <a class="label" href="https://www.edix.com/es/sobre/programacion/">Programación</a>, <a class="label" href="https://www.edix.com/es/sobre/salarios/">Salarios</a>.</p>      </div>
+      
+      <!-- author -->
+      <div class="post-author">
+        <div class="img-container rounded">
+                    <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="metodo edix" title="metodo edix" data-lazy-src="https://www.edix.com/es/wp-content/uploads/sites/2/2019/12/metodo-edix-ilustracion.svg"/><noscript><img src="https://www.edix.com/es/wp-content/uploads/sites/2/2019/12/metodo-edix-ilustracion.svg" alt="metodo edix" title="metodo edix"/></noscript>
+        </div>
+        <div class="data">
+          <p class="super-title mno">Escrito por</p>
+          <p class="h4 mtno title">Redacción Edix</p>
+          Los Expertos Digitales necesitan estar al día para hacer un buen trabajo. ¿Conoces las últimas tendencias en tecnología, negocios o productividad? Nosotros te las contamos.        </div>
+      </div>
+    </div>
+    
+	<!-- Módulo promocional -->
+    <div class="col-md-12 col-lg-4 col-xl-3 offset-xl-1">
+      <div class="sticky promo-module">
+              </div>
+    </div>
+  </div>   
+ 
+   <!-- Paginador de prev and next -->
+    <div class="row section">
+    <div class="pager-prev-next col-12">
+            <a class="prev item" href="https://www.edix.com/es/instituto/api/" title="API"><span>Ver anterior</span><strong>API</strong></a>
+            <a class="next item" href="https://www.edix.com/es/instituto/pruebas-libres-fp/" title="Pruebas libres FP: qué son y cómo acceder a ellas"><span>Ver siguiente</span><strong>Pruebas libres FP: qué son y cómo acceder a ellas</strong></a>
+          </div>
+  </div>
+
+		    <section class="text career-list with-head section">
+        <div class="e-row">
+          <div class="col-12">
+            <h2 class="title h2 margin">Nuestros cursos</h2>
+          </div>
+         <article class="card--course e-col-xs-12 e-col-sm-6 e-col-md-6 e-col-lg-6 e-col-xl-4">
+	<a href="https://www.edix.com/es/fp/daw-desarrollo-de-aplicaciones-web/" class="card__item -grado">
+		<div class="card__body"  >
+			<h5 class="card__title">DAW				<span class="card__subtitle">Desarrollo de Aplicaciones Web</span>
+			</h5>
+			<p class="card__description">Aprende a desarrollar páginas y aplicaciones web de diferentes modelos. Con especialización en MEAN y Full Stack. </p>
+			<div class="card__figurate"  >
+				<img class="card__icon no-lazy skip-lazy" src="https://www.edix.com/es/wp-content/uploads/sites/2/2022/03/EstiloDAW-TamanoBig.svg" alt="">
+			</div>
+		</div>
+		<div class="card__footer" >
+			<p class="card__type">Grado FP</p>
+			<p class="card__date">2 años</p>
+			<p class="card__date">Inicio: OCT</p>
+			<img class="no-lazy skip-lazy" src="https://www.edix.com/es/wp-content/themes/edix/images/modules/edx_arrow-right-purple-light.svg" alt="">
+		</div>
+	</a>
+</article>	    </div>
+        <div class="row">
+          <div class="col-12">
+            <p class="btn-container text-center">
+              <span
+                class="btn shoot-link"
+                data-href="https://www.edix.com/es/cursos/"
+                title="Descrubre nuestros cursos"
+              >Descrubre nuestros cursos</span
+              >
+            </p>
+          </div>
+        </div>
+      </section>
+	
+      <!-- Posts relacionados -->
+            <section class="section">
+        <div class="row">
+      	            <div class="col-12 col-lg-3">
+              <div class="blog-module normal-module container-linkable">
+                <div class="img-container rounded">
+                <img width="300" height="169" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20169'%3E%3C/svg%3E" class="bg wp-post-image" alt="FP con empleo incluido" data-lazy-srcset="https://www.edix.com/es/wp-content/uploads/sites/2/2022/09/FP-empleo-incluido_1920-300x169.jpg 300w, https://www.edix.com/es/wp-content/uploads/sites/2/2022/09/FP-empleo-incluido_1920-1024x576.jpg 1024w, https://www.edix.com/es/wp-content/uploads/sites/2/2022/09/FP-empleo-incluido_1920-768x432.jpg 768w, https://www.edix.com/es/wp-content/uploads/sites/2/2022/09/FP-empleo-incluido_1920-1536x864.jpg 1536w, https://www.edix.com/es/wp-content/uploads/sites/2/2022/09/FP-empleo-incluido_1920-1292x727.jpg 1292w, https://www.edix.com/es/wp-content/uploads/sites/2/2022/09/FP-empleo-incluido_1920-710x400.jpg 710w, https://www.edix.com/es/wp-content/uploads/sites/2/2022/09/FP-empleo-incluido_1920.jpg 1920w" data-lazy-sizes="(max-width: 300px) 100vw, 300px" data-lazy-src="https://www.edix.com/es/wp-content/uploads/sites/2/2022/09/FP-empleo-incluido_1920-300x169.jpg" /><noscript><img width="300" height="169" src="https://www.edix.com/es/wp-content/uploads/sites/2/2022/09/FP-empleo-incluido_1920-300x169.jpg" class="bg wp-post-image" alt="FP con empleo incluido" srcset="https://www.edix.com/es/wp-content/uploads/sites/2/2022/09/FP-empleo-incluido_1920-300x169.jpg 300w, https://www.edix.com/es/wp-content/uploads/sites/2/2022/09/FP-empleo-incluido_1920-1024x576.jpg 1024w, https://www.edix.com/es/wp-content/uploads/sites/2/2022/09/FP-empleo-incluido_1920-768x432.jpg 768w, https://www.edix.com/es/wp-content/uploads/sites/2/2022/09/FP-empleo-incluido_1920-1536x864.jpg 1536w, https://www.edix.com/es/wp-content/uploads/sites/2/2022/09/FP-empleo-incluido_1920-1292x727.jpg 1292w, https://www.edix.com/es/wp-content/uploads/sites/2/2022/09/FP-empleo-incluido_1920-710x400.jpg 710w, https://www.edix.com/es/wp-content/uploads/sites/2/2022/09/FP-empleo-incluido_1920.jpg 1920w" sizes="(max-width: 300px) 100vw, 300px" /></noscript>                </div>
+                <p class="text-small date">20 · 09 · 2022</p>
+                <h2 class="title h6 nm"><a href="https://www.edix.com/es/instituto/empleo-incluido/" title="Alumnos de Edix FP de UNIR: “En una semana estaba ya trabajando”">Alumnos de Edix FP de UNIR: “En una semana estaba ya trabajando”</a></h2>
+                <p>Ofrecemos 270 plazas para cursar un grado de FP de la rama de informática con oferta de empleo incluido. ¿Nos hemos vuelto locos? No, ¡tenemos las Superbecas!</p>
+              </div>
+            </div>
+                    <div class="col-12 col-lg-3">
+              <div class="blog-module normal-module container-linkable">
+                <div class="img-container rounded">
+                <img width="300" height="169" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20169'%3E%3C/svg%3E" class="bg wp-post-image" alt="Key Account Manager (KAM): qué es y cuáles son sus funciones" data-lazy-srcset="https://www.edix.com/es/wp-content/uploads/sites/2/2022/09/Key-Account-Manager-300x169.jpg 300w, https://www.edix.com/es/wp-content/uploads/sites/2/2022/09/Key-Account-Manager-1024x576.jpg 1024w, https://www.edix.com/es/wp-content/uploads/sites/2/2022/09/Key-Account-Manager-768x432.jpg 768w, https://www.edix.com/es/wp-content/uploads/sites/2/2022/09/Key-Account-Manager-1536x864.jpg 1536w, https://www.edix.com/es/wp-content/uploads/sites/2/2022/09/Key-Account-Manager-1292x727.jpg 1292w, https://www.edix.com/es/wp-content/uploads/sites/2/2022/09/Key-Account-Manager-710x400.jpg 710w, https://www.edix.com/es/wp-content/uploads/sites/2/2022/09/Key-Account-Manager.jpg 1920w" data-lazy-sizes="(max-width: 300px) 100vw, 300px" data-lazy-src="https://www.edix.com/es/wp-content/uploads/sites/2/2022/09/Key-Account-Manager-300x169.jpg" /><noscript><img width="300" height="169" src="https://www.edix.com/es/wp-content/uploads/sites/2/2022/09/Key-Account-Manager-300x169.jpg" class="bg wp-post-image" alt="Key Account Manager (KAM): qué es y cuáles son sus funciones" srcset="https://www.edix.com/es/wp-content/uploads/sites/2/2022/09/Key-Account-Manager-300x169.jpg 300w, https://www.edix.com/es/wp-content/uploads/sites/2/2022/09/Key-Account-Manager-1024x576.jpg 1024w, https://www.edix.com/es/wp-content/uploads/sites/2/2022/09/Key-Account-Manager-768x432.jpg 768w, https://www.edix.com/es/wp-content/uploads/sites/2/2022/09/Key-Account-Manager-1536x864.jpg 1536w, https://www.edix.com/es/wp-content/uploads/sites/2/2022/09/Key-Account-Manager-1292x727.jpg 1292w, https://www.edix.com/es/wp-content/uploads/sites/2/2022/09/Key-Account-Manager-710x400.jpg 710w, https://www.edix.com/es/wp-content/uploads/sites/2/2022/09/Key-Account-Manager.jpg 1920w" sizes="(max-width: 300px) 100vw, 300px" /></noscript>                </div>
+                <p class="text-small date">12 · 09 · 2022</p>
+                <h2 class="title h6 nm"><a href="https://www.edix.com/es/instituto/key-account-manager/" title="Key Account Manager: qué es, funciones y salario">Key Account Manager: qué es, funciones y salario</a></h2>
+                <p>El Key Account Manager (KAM) es el responsable de gestionar las cuentas de clientes que producen más ingresos. Su objetivo es crear una relación a largo plazo para mantener las cuentas más valiosas el máximo tiempo posible. Debe asegurar el cumplimiento de los KPI’s de la cuenta, establecer una comunicación bidireccional continua y  participar en la toma de decisiones referentes a la estrategia.  Gran parte de la facturación depende de su trabajo. Hoy, en Edix, descubrimos más sobre este interesantísimo perfil profesional.</p>
+              </div>
+            </div>
+                    <div class="col-12 col-lg-3">
+              <div class="blog-module normal-module container-linkable">
+                <div class="img-container rounded">
+                <img width="300" height="169" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20169'%3E%3C/svg%3E" class="bg wp-post-image" alt="Estadística Aplicada al Marketing" data-lazy-srcset="https://www.edix.com/es/wp-content/uploads/sites/2/2022/08/estadistica_aplicada-300x169.jpg 300w, https://www.edix.com/es/wp-content/uploads/sites/2/2022/08/estadistica_aplicada-1024x576.jpg 1024w, https://www.edix.com/es/wp-content/uploads/sites/2/2022/08/estadistica_aplicada-768x432.jpg 768w, https://www.edix.com/es/wp-content/uploads/sites/2/2022/08/estadistica_aplicada-1536x864.jpg 1536w, https://www.edix.com/es/wp-content/uploads/sites/2/2022/08/estadistica_aplicada-1292x727.jpg 1292w, https://www.edix.com/es/wp-content/uploads/sites/2/2022/08/estadistica_aplicada-710x400.jpg 710w, https://www.edix.com/es/wp-content/uploads/sites/2/2022/08/estadistica_aplicada.jpg 1600w" data-lazy-sizes="(max-width: 300px) 100vw, 300px" data-lazy-src="https://www.edix.com/es/wp-content/uploads/sites/2/2022/08/estadistica_aplicada-300x169.jpg" /><noscript><img width="300" height="169" src="https://www.edix.com/es/wp-content/uploads/sites/2/2022/08/estadistica_aplicada-300x169.jpg" class="bg wp-post-image" alt="Estadística Aplicada al Marketing" srcset="https://www.edix.com/es/wp-content/uploads/sites/2/2022/08/estadistica_aplicada-300x169.jpg 300w, https://www.edix.com/es/wp-content/uploads/sites/2/2022/08/estadistica_aplicada-1024x576.jpg 1024w, https://www.edix.com/es/wp-content/uploads/sites/2/2022/08/estadistica_aplicada-768x432.jpg 768w, https://www.edix.com/es/wp-content/uploads/sites/2/2022/08/estadistica_aplicada-1536x864.jpg 1536w, https://www.edix.com/es/wp-content/uploads/sites/2/2022/08/estadistica_aplicada-1292x727.jpg 1292w, https://www.edix.com/es/wp-content/uploads/sites/2/2022/08/estadistica_aplicada-710x400.jpg 710w, https://www.edix.com/es/wp-content/uploads/sites/2/2022/08/estadistica_aplicada.jpg 1600w" sizes="(max-width: 300px) 100vw, 300px" /></noscript>                </div>
+                <p class="text-small date">17 · 08 · 2022</p>
+                <h2 class="title h6 nm"><a href="https://www.edix.com/es/instituto/estadistica-aplicada-al-marketing/" title="La estadística aplicada al marketing en Marketing Data Analytics">La estadística aplicada al marketing en Marketing Data Analytics</a></h2>
+                <p>Si quieres ser un especialista en Estadística Aplicada al Marketing, fórmate con Edix y matricúlate en el curso de especialización en Marketing Data Analytics. Una asignatura particular para un conocimiento global que te hará entender que estudiar estadística aplicada al marketing es la manera más sencilla de destripar los datos en tu beneficio.</p>
+              </div>
+            </div>
+                    <div class="col-12 col-lg-3">
+              <div class="blog-module normal-module container-linkable">
+                <div class="img-container rounded">
+                <img width="300" height="169" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20169'%3E%3C/svg%3E" class="bg wp-post-image" alt="Influencer: marketing de influencia" data-lazy-srcset="https://www.edix.com/es/wp-content/uploads/sites/2/2022/08/influencer-marketing-300x169.jpg 300w, https://www.edix.com/es/wp-content/uploads/sites/2/2022/08/influencer-marketing-1024x576.jpg 1024w, https://www.edix.com/es/wp-content/uploads/sites/2/2022/08/influencer-marketing-768x432.jpg 768w, https://www.edix.com/es/wp-content/uploads/sites/2/2022/08/influencer-marketing-1536x864.jpg 1536w, https://www.edix.com/es/wp-content/uploads/sites/2/2022/08/influencer-marketing-1292x727.jpg 1292w, https://www.edix.com/es/wp-content/uploads/sites/2/2022/08/influencer-marketing-710x400.jpg 710w, https://www.edix.com/es/wp-content/uploads/sites/2/2022/08/influencer-marketing.jpg 1600w" data-lazy-sizes="(max-width: 300px) 100vw, 300px" data-lazy-src="https://www.edix.com/es/wp-content/uploads/sites/2/2022/08/influencer-marketing-300x169.jpg" /><noscript><img width="300" height="169" src="https://www.edix.com/es/wp-content/uploads/sites/2/2022/08/influencer-marketing-300x169.jpg" class="bg wp-post-image" alt="Influencer: marketing de influencia" srcset="https://www.edix.com/es/wp-content/uploads/sites/2/2022/08/influencer-marketing-300x169.jpg 300w, https://www.edix.com/es/wp-content/uploads/sites/2/2022/08/influencer-marketing-1024x576.jpg 1024w, https://www.edix.com/es/wp-content/uploads/sites/2/2022/08/influencer-marketing-768x432.jpg 768w, https://www.edix.com/es/wp-content/uploads/sites/2/2022/08/influencer-marketing-1536x864.jpg 1536w, https://www.edix.com/es/wp-content/uploads/sites/2/2022/08/influencer-marketing-1292x727.jpg 1292w, https://www.edix.com/es/wp-content/uploads/sites/2/2022/08/influencer-marketing-710x400.jpg 710w, https://www.edix.com/es/wp-content/uploads/sites/2/2022/08/influencer-marketing.jpg 1600w" sizes="(max-width: 300px) 100vw, 300px" /></noscript>                </div>
+                <p class="text-small date">17 · 08 · 2022</p>
+                <h2 class="title h6 nm"><a href="https://www.edix.com/es/instituto/influencer-marketing/" title="Influencer marketing:  qué es y cómo trabajar con influencers">Influencer marketing:  qué es y cómo trabajar con influencers</a></h2>
+                <p>Recuerdas alguna de las campañas de Coca Cola con Santa Claus? En marketing Papá Noel se considera uno de primeros influencers, ya que su primer anuncio es de 1920. Ahora, con las redes sociales y las plataformas de streaming, todos tenemos nuestros influencers de cabecera. Si tienes una empresa o trabajas en marketing y quieres empezar a hacer acciones con influencers, esto te interesa: tipos de influencers, como plantear la estrategia, como medirla… ¡Toma nota! </p>
+              </div>
+            </div>
+                </div>
+      </section>
+        
+	</main>
+
+  
+  <section class="contact -hidden-sm -hidden-xs ">
+    <div class="e-container">
+      <ul class="contact__list">
+        <li class="contact__item shoot-link-blank" data-href="tel:917873991">
+          <div class="contact__link">
+            <figure class="contact__icon">
+              <img class="contact__svg skip-lazy" src="https://www.edix.com/es/wp-content/themes/edix/images/modules/edx_phone-icon.svg" alt="">
+            </figure>
+            917873991          </div>
+        </li>
+        <li class="contact__item">
+          <div class="contact__link" data-target="#modal-phone" data-toggle="modal" >
+            <figure class="contact__icon">
+            <img class="contact__svg skip-lazy" src="https://www.edix.com/es/wp-content/themes/edix/images/modules/edx_profile-icon.svg" alt="">
+            </figure>
+            ¿Te llamamos?          </div>
+        </li>
+        <li class="contact__item shoot-link-blank" data-href="mailto:soy@edix.com">
+          <div class="contact__link">
+            <figure class="contact__icon">
+              <img class="contact__svg skip-lazy" src="https://www.edix.com/es/wp-content/themes/edix/images/modules/edx_mail-icon.svg" alt="">
+            </figure>
+            soy@edix.com          </div>
+        </li>
+        <li class="contact__item shoot-link-blank" data-href="https://api.whatsapp.com/send?phone=+34686887832&amp;text=¡Hola! Me gustaría hablar con un asesor." target="_blank">
+          <div class="contact__link">
+            <figure class="contact__icon">
+              <img class="contact__svg skip-lazy" src="https://www.edix.com/es/wp-content/themes/edix/images/modules/edx_whatsapp-icon.svg" alt="">
+            </figure>
+            WhatsApp
+        </div>
+        </li>
+      </ul>
+    </div>
+  </section>
+
+  <section class="e-section--fixed-bottom -hidden-from-md" data-module="cta-fixed">
+    <a class="cta--img -box-shadow"  title="Solicita información" data-modal="button-modal" data-modal-id="formPopUp">
+    Solicita información
+    </a>
+    
+    <a class="cta--icon -box-shadow" data-modal="button-modal" data-modal-id="callme">
+      <img class="cta__icon skip-lazy" src="https://www.edix.com/es/wp-content/themes/edix/images/modules/edx_phone-icon-fixed.svg" alt="">
+    </a>
+  </section>
+
+  <!-- formulario 3 pasos en mobile -->
+  <div id="formPopUp" class="e-modal e-modal--step" data-modal="modal">
+    <div class="e-modal__inner">
+    <div class="e-modal__content">
+      <div class="e-modal__header">
+        <button type="button" class="e-modal__close" data-modal="close">
+          <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="22px" height="22px" viewBox="0 0 22 22" version="1.1" alt="cerrar" title="cerrar">
+            <g transform="translate(-750.000000, -1401.000000)" fill="#000000" fill-rule="nonzero">
+              <g id="Group" transform="translate(749.000000, 1400.000000)">
+                <rect id="Rectangle" transform="translate(11.989581, 11.990509) rotate(-135.605335) translate(-11.989581, -11.990509) " x="-2.83410042" y="10.7545291" width="29.6473631" height="2.47195968" rx="1.23597984"></rect>
+                <rect id="Rectangle" transform="translate(11.990970, 11.990492) rotate(134.419160) translate(-11.990970, -11.990492) " x="-2.83271172" y="10.7545628" width="29.6473631" height="2.47185909" rx="1.23592955"></rect>
+              </g>
+            </g>
+          </svg>
+        </button>
+      </div>
+      <div class="e-modal__body -text-center">
+        <div class="e-modal__step is-show" data-modal="step">
+          <div data-modal-mobile="true" data-modal="container">
+          <div role="form" class="wpcf7" id="wpcf7-f48562-o1" lang="es-ES" dir="ltr">
+<div class="screen-reader-response" aria-live="polite"></div>
+<form action="/es/instituto/front-end-developer/#wpcf7-f48562-o1" method="post" class="wpcf7-form reduced-form" novalidate="novalidate">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="48562" />
+<input type="hidden" name="_wpcf7_version" value="5.1.9" />
+<input type="hidden" name="_wpcf7_locale" value="es_ES" />
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f48562-o1" />
+<input type="hidden" name="_wpcf7_container_post" value="0" />
+<input type="hidden" name="g-recaptcha-response" value="" />
+</div>
+<p class="-text-center h6 mtno">Información sin compromiso</p>
+<div class="form-group">
+  <span class="wpcf7-form-control-wrap nombre"><input type="text" name="nombre" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required form-control" aria-required="true" aria-invalid="false" placeholder="Nombre" /></span>
+</div>
+<div class="form-group">
+  <span class="wpcf7-form-control-wrap apellidos"><input type="text" name="apellidos" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required form-control" aria-required="true" aria-invalid="false" placeholder="Apellidos" /></span>
+</div>
+<div class="form-group">
+  <span class="wpcf7-form-control-wrap email"><input type="email" name="email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email form-control display-legal-text" aria-required="true" aria-invalid="false" placeholder="Email" /></span>
+</div>
+<div class="form-row">
+  <div class="form-group col-3">
+    <span class="wpcf7-form-control-wrap phone-prefix"><input type="text" name="phone-prefix" value="+34" size="40" class="wpcf7-form-control wpcf7-text form-control" aria-invalid="false" /></span>
+  </div>
+  <div class="form-group col-9">
+    <span class="wpcf7-form-control-wrap phone"><input type="tel" name="phone" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-tel wpcf7-validates-as-required wpcf7-validates-as-tel form-control" aria-required="true" aria-invalid="false" placeholder="Teléfono móvil" /></span>
+  </div>
+</div>
+
+<div class="form-row">
+  <div class="form-group col-12">
+    <span class="wpcf7-form-control-wrap carrera-elegida">
+	<select name="carrera-elegida" class="wpcf7-form-control wpcf7-select wpcf7-validates-as-required form-control" aria-required="true" aria-invalid="false">
+		<option value="">Selecciona una titulación</option>
+		<option value="Experto en Digital Content">Bootcamp Digital Content</option>
+		<option value="Bootcamp 4: Content Maker">Bootcamp Creador de Contenidos Digitales</option>
+		<option value="Experto en Marketing Data Analytics">Bootcamp Marketing Data Analytics</option>
+		<option value="Experto en CRO">Bootcamp CRO</option>
+		<option value="Experto en SEO">Bootcamp SEO</option>
+		<option value="Bootcamp 4: SEO Content">Bootcamp 4: SEO Content</option>
+		<option value="Bootcamp 4: Salesforce">Bootcamp 4: Salesforce</option>
+		<option value="Experto en Ecommerce">Bootcamp Ecommerce</option>
+		<option value="Bootcamp 4: Crea una tienda con Shopify">Bootcamp Gestor de Tiendas Online con Shopify</option>
+		<option value="Experto en Marketing Digital">Bootcamp Marketing Digital</option>
+		<option value="Experto en Growth Marketing">Bootcamp Growth Marketing</option>
+		<option value="Bootcamp 4: Técnico en campañas Publicitarias">Bootcamp Técnico en Campañas Publicitarias Digitales</option>
+		<option value="Administración y Finanzas">Grado FP Administración y Finanzas</option>
+		<option value="Administración de Sistemas Informáticos en Red (ASIR)">Grado FP ASIR</option>
+		<option value="Grado FP DAM">Grado FP DAM</option>
+		<option value="Grado FP DAW">Grado FP DAW</option>
+		<option value="Marketing y Publicidad">Grado FP Marketing y Publicidad</option>
+		<option value="Máster FP en Ciberseguridad">Máster FP Ciberseguridad</option>
+		<option value="Máster FP en Big Data">Máster FP Big Data</option>
+		<option value="Máster FP en IA y Big Data">Máster FP IA y Big Data</option>
+	</select>
+</span>
+  </div>
+</div>
+
+<div class="form-row">
+
+                <div class="col-12">
+                  <div class="legal-text d-block grey-border">Edix (de forma conjunta, como corresponsables del tratamiento EDIX EDUCACIÓN, S.A.U. y PROINNOVA EUROPA S.L.U.), tratará los datos de carácter personal que nos has proporcionado con la finalidad de atender a tu solicitud de envío de información acerca de los productos, servicios, promociones y ofertas del Edix y de otras empresas del grupo Proinnova, por vía telefónica o electrónica. Podrás revocar el consentimiento otorgado, así como ejercitar los derechos reconocidos en los artículos 15 a 22 del Reglamento (UE) 2016/679, mediante solicitud dirigida a c/ Arvaca 12, 28040, Madrid, España, o a la siguiente dirección de correo electrónico: rgpd@edix.com, adjuntando copia de su DNI o documentación acreditativa de su identidad. Si lo deseas puede consultar información adicional y detallada sobre Protección de Datos pinchando <a href="/es/legal/#PoliticaDePrivacidad" target="_blank">aquí</a>.</div>
+              </div>
+
+</div>
+
+<p class="submit"><input class="cta--bg -full-width wpcf7-submit" type="submit" value="Solicitar información" data-modal="button-modal" data-modal-id="stepTwo" data-contac-form="true"><span class="ajax-loader"></span></p><div class="wpcf7-response-output wpcf7-display-none" aria-hidden="true"></div></form></div>          </div>
+
+        </div>
+        
+        <div class="e-modal__step" data-modal="step">
+          
+          <div role="form" class="wpcf7" id="wpcf7-f48341-o2" lang="es-ES" dir="ltr">
+<div class="screen-reader-response" aria-live="polite"></div>
+<form action="/es/instituto/front-end-developer/#wpcf7-f48341-o2" method="post" class="wpcf7-form reduced-form form--popUp" novalidate="novalidate">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="48341" />
+<input type="hidden" name="_wpcf7_version" value="5.1.9" />
+<input type="hidden" name="_wpcf7_locale" value="es_ES" />
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f48341-o2" />
+<input type="hidden" name="_wpcf7_container_post" value="0" />
+<input type="hidden" name="g-recaptcha-response" value="" />
+</div>
+<p class="e-modal__title -m--b-x4">Por cierto...</p> 
+                <p class="e-modal__text -m--b-x4">Selecciona las opciones que prefieres para comunicarnos contigo.</p>
+                
+                <div class="form-group">
+                  <div class="form-group__switch">
+                    <label class="switch">
+                      <span class="wpcf7-form-control-wrap whatsapp"><span class="wpcf7-form-control wpcf7-acceptance optional"><span class="wpcf7-list-item"><input type="checkbox" name="whatsapp" value="1" aria-invalid="false" /></span></span></span>
+                      <span class="slider round"></span>
+                    </label>
+                    <span class="d-flex align-items-start"><img class="switch__whatsapp" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="" data-lazy-src="https://www.edix.com/wp-content/themes/edix/images/edx_logos_whatsapp-input.svg"><noscript><img class="switch__whatsapp" src="https://www.edix.com/wp-content/themes/edix/images/edx_logos_whatsapp-input.svg" alt=""></noscript>Acepto que un asesor me contacte por Whatsapp</span>
+                  </div>
+                </div>
+                
+                <div class="form-group">
+                  <div class="form-group__switch">
+                    <label class="switch">
+                      <span class="wpcf7-form-control-wrap newsletter"><span class="wpcf7-form-control wpcf7-acceptance optional"><span class="wpcf7-list-item"><input type="checkbox" name="newsletter" value="1" aria-invalid="false" /></span></span></span>
+                      <span class="slider round"></span>
+                    </label>
+                    <span>Recibir información de EDIX, así como del resto de empresas del <strong>Grupo Proeduca</strong>, vinculadas al sector de la educación.</span>
+                  </div>
+                </div>
+                
+                <div class="form__group">
+                  <p class="submit">
+                    <input class="cta--bg -full-width wpcf7-submit" type="submit" value="Enviar" data-modal="button-next" data-contac-form="true">
+                  </p>
+                </div><div class="wpcf7-response-output wpcf7-display-none" aria-hidden="true"></div></form></div>
+        </div>
+        <div class="e-modal__step" data-modal="step">
+          <p class="e-modal__title -m--b-x4">Gracias</p>
+          <h6 class="e-modal__text -m--b-x4">Nos pondremos en <br>contacto contigo lo antes <br>posible.</h6>
+          <p class="e-modal__text -m--b-x2">En cualquier caso, si tienes <br>alguna pregunta o duda, puedes <br>llamarnos al:</p>
+          <a class="e-modal__tel -p--t-x4 -p--b-x4" href="tel:917873991">
+            <img class="e-modal__img skip-lazy" src="https://www.edix.com/es/wp-content/themes/edix/images/edx_phone-purple-fill.svg" alt="">
+            917 873 991
+          </a>
+          <p class="e-modal__text-small">Lunes a jueves de 9:00 a 18:00 y viernes de <br>9:00 a 14:00</p>
+          <a class="cta -full-width close -m--t-x3" data-modal="close">Terminar</a>
+        </div>
+      
+      </div>
+    </div>
+    </div>
+  </div>
+
+
+<!-- Formulario en 3 pasos más información -->
+  <div id="stepTwo" class="e-modal e-modal--step" data-modal="modal">
+    <div class="e-modal__inner">
+    <div class="e-modal__content">
+      <div class="e-modal__header">
+        <button type="button" class="e-modal__close" data-modal="close">
+          <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="22px" height="22px" viewBox="0 0 22 22" version="1.1" alt="cerrar" title="cerrar">
+            <g transform="translate(-750.000000, -1401.000000)" fill="#000000" fill-rule="nonzero">
+              <g id="Group" transform="translate(749.000000, 1400.000000)">
+                <rect id="Rectangle" transform="translate(11.989581, 11.990509) rotate(-135.605335) translate(-11.989581, -11.990509) " x="-2.83410042" y="10.7545291" width="29.6473631" height="2.47195968" rx="1.23597984"></rect>
+                <rect id="Rectangle" transform="translate(11.990970, 11.990492) rotate(134.419160) translate(-11.990970, -11.990492) " x="-2.83271172" y="10.7545628" width="29.6473631" height="2.47185909" rx="1.23592955"></rect>
+              </g>
+            </g>
+          </svg>
+        </button>
+      </div>
+      <div class="e-modal__body -text-center">
+        <div class="e-modal__step is-show" data-modal="step">
+          
+        <div role="form" class="wpcf7" id="wpcf7-f48341-o3" lang="es-ES" dir="ltr">
+<div class="screen-reader-response" aria-live="polite"></div>
+<form action="/es/instituto/front-end-developer/#wpcf7-f48341-o3" method="post" class="wpcf7-form reduced-form form--popUp" novalidate="novalidate">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="48341" />
+<input type="hidden" name="_wpcf7_version" value="5.1.9" />
+<input type="hidden" name="_wpcf7_locale" value="es_ES" />
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f48341-o3" />
+<input type="hidden" name="_wpcf7_container_post" value="0" />
+<input type="hidden" name="g-recaptcha-response" value="" />
+</div>
+<p class="e-modal__title -m--b-x4">Por cierto...</p> 
+                <p class="e-modal__text -m--b-x4">Selecciona las opciones que prefieres para comunicarnos contigo.</p>
+                
+                <div class="form-group">
+                  <div class="form-group__switch">
+                    <label class="switch">
+                      <span class="wpcf7-form-control-wrap whatsapp"><span class="wpcf7-form-control wpcf7-acceptance optional"><span class="wpcf7-list-item"><input type="checkbox" name="whatsapp" value="1" aria-invalid="false" /></span></span></span>
+                      <span class="slider round"></span>
+                    </label>
+                    <span class="d-flex align-items-start"><img class="switch__whatsapp" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="" data-lazy-src="https://www.edix.com/wp-content/themes/edix/images/edx_logos_whatsapp-input.svg"><noscript><img class="switch__whatsapp" src="https://www.edix.com/wp-content/themes/edix/images/edx_logos_whatsapp-input.svg" alt=""></noscript>Acepto que un asesor me contacte por Whatsapp</span>
+                  </div>
+                </div>
+                
+                <div class="form-group">
+                  <div class="form-group__switch">
+                    <label class="switch">
+                      <span class="wpcf7-form-control-wrap newsletter"><span class="wpcf7-form-control wpcf7-acceptance optional"><span class="wpcf7-list-item"><input type="checkbox" name="newsletter" value="1" aria-invalid="false" /></span></span></span>
+                      <span class="slider round"></span>
+                    </label>
+                    <span>Recibir información de EDIX, así como del resto de empresas del <strong>Grupo Proeduca</strong>, vinculadas al sector de la educación.</span>
+                  </div>
+                </div>
+                
+                <div class="form__group">
+                  <p class="submit">
+                    <input class="cta--bg -full-width wpcf7-submit" type="submit" value="Enviar" data-modal="button-next" data-contac-form="true">
+                  </p>
+                </div><div class="wpcf7-response-output wpcf7-display-none" aria-hidden="true"></div></form></div>
+
+        </div>
+        <div class="e-modal__step" data-modal="step">
+          <p class="e-modal__title -m--b-x4">Gracias</p>
+          <h6 class="e-modal__text -m--b-x4">Nos pondremos en <br>contacto contigo lo antes <br>posible.</h6>
+          <p class="e-modal__text -m--b-x2">En cualquier caso, si tienes <br>alguna pregunta o duda, puedes <br>llamarnos al:</p>
+          <a class="e-modal__tel -p--t-x4 -p--b-x4" href="tel:917873991">
+            <img class="e-modal__img skip-lazy" src="https://www.edix.com/es/wp-content/themes/edix/images/edx_phone-purple-fill.svg" alt="">
+            917 873 991
+          </a>
+          <p class="e-modal__text-small">Lunes a jueves de 9:00 a 18:00 y viernes de <br>9:00 a 14:00</p>
+          <a class="cta -full-width close -m--t-x3" data-modal="close">Terminar</a>
+        </div>
+      </div>
+    </div>
+    </div>
+  </div>
+
+  
+
+  <div id="callme" class="e-modal e-modal--step" data-modal="modal">
+    <div class="e-modal__inner">
+    <div class="e-modal__content">
+      <div class="e-modal__header">
+      <button type="button" class="e-modal__close" data-modal="close">
+                  <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="22px" height="22px" viewBox="0 0 22 22" version="1.1" alt="cerrar" title="cerrar">
+                    <g transform="translate(-750.000000, -1401.000000)" fill="#000000" fill-rule="nonzero">
+                      <g id="Group" transform="translate(749.000000, 1400.000000)">
+                        <rect id="Rectangle" transform="translate(11.989581, 11.990509) rotate(-135.605335) translate(-11.989581, -11.990509) " x="-2.83410042" y="10.7545291" width="29.6473631" height="2.47195968" rx="1.23597984"></rect>
+                        <rect id="Rectangle" transform="translate(11.990970, 11.990492) rotate(134.419160) translate(-11.990970, -11.990492) " x="-2.83271172" y="10.7545628" width="29.6473631" height="2.47185909" rx="1.23592955"></rect>
+                      </g>
+                    </g>
+                  </svg>
+                </button>
+      </div>
+      <div class="e-modal__body -text-center">
+        <div class="e-modal__step is-show" data-modal="step">
+          <p class="e-modal__title -m--b-x4">Llama ahora</p>  
+          <h6 class="e-modal__text -m--b-x4">y un asesor te informará sin <br>compromiso</h6> 
+          <ul class="e-modal__rrss -m--b-x4">
+            <li class="e-modal__rrss-item">    
+              <a class="e-modal__rrss-link" href="tel:917873991">
+                <figure class="e-modal__rrss-figure">
+                  <img class="e-modal__rrss-svg skip-lazy" src="https://www.edix.com/es/wp-content/themes/edix/images/modules/edx_phone-purple-fill.svg" alt="">
+                </figure>
+                917 873 991
+              </a>
+            </li>
+            <li class="e-modal__rrss-item">
+              <a class="e-modal__rrss-link" href="https://api.whatsapp.com/send?phone=0123456789&amp;text=Hola, Nececito mas informacion!">
+                <figure class="e-modal__rrss-figure">
+                  <img class="e-modal__rrss-svg skip-lazy" src="https://www.edix.com/es/wp-content/themes/edix/images/modules/edx_whatsaap-green-fill.svg" alt="">
+                </figure>
+                +34686887832              </a>
+            </li>
+          </ul>
+          <p class="e-modal__text -m--b-x2">o si lo prefieres</p> 
+          <a class="cta -full-width" data-modal="button-next">¿Te llamamos?</a>
+        </div>
+        <div class="e-modal__step" data-modal="step">
+          <div role="form" class="wpcf7" id="wpcf7-f48340-o4" lang="es-ES" dir="ltr">
+<div class="screen-reader-response" aria-live="polite"></div>
+<form action="/es/instituto/front-end-developer/#wpcf7-f48340-o4" method="post" class="wpcf7-form" novalidate="novalidate">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="48340" />
+<input type="hidden" name="_wpcf7_version" value="5.1.9" />
+<input type="hidden" name="_wpcf7_locale" value="es_ES" />
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f48340-o4" />
+<input type="hidden" name="_wpcf7_container_post" value="0" />
+<input type="hidden" name="g-recaptcha-response" value="" />
+</div>
+<div class="form-row">
+  <div class="form-group col-3">
+    <span class="wpcf7-form-control-wrap phone-prefix"><input type="text" name="phone-prefix" value="+34" size="40" class="wpcf7-form-control wpcf7-text form-control" aria-invalid="false" /></span>
+  </div>
+  <div class="form-group col-9">
+    <span class="wpcf7-form-control-wrap phone"><input type="tel" name="phone" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-tel wpcf7-validates-as-required wpcf7-validates-as-tel form-control" aria-required="true" aria-invalid="false" placeholder="Teléfono móvil" /></span>
+  </div>
+</div>
+
+<div class="form-row">
+
+                <div class="col-12">
+                  <div class="legal-text d-block grey-border">Edix (de forma conjunta, como corresponsables del tratamiento EDIX EDUCACIÓN, S.A.U. y PROINNOVA EUROPA S.L.U.), tratará los datos de carácter personal que nos has proporcionado con la finalidad de atender a tu solicitud de envío de información acerca de los productos, servicios, promociones y ofertas del Edix y de otras empresas del grupo Proinnova, por vía telefónica o electrónica. Podrás revocar el consentimiento otorgado, así como ejercitar los derechos reconocidos en los artículos 15 a 22 del Reglamento (UE) 2016/679, mediante solicitud dirigida a c/ Arvaca 12, 28040, Madrid, España, o a la siguiente dirección de correo electrónico: rgpd@edix.com, adjuntando copia de su DNI o documentación acreditativa de su identidad. Si lo deseas puede consultar información adicional y detallada sobre Protección de Datos pinchando <a href="/es/legal/#PoliticaDePrivacidad" target="_blank">aquí</a>. Esta web está protegida por reCAPTCHA y aplica la <a href="https://policies.google.com/privacy" rel="nofollow">Política de Privacidad</a> y <a href="https://policies.google.com/terms" rel="nofollow">Términos de Servicio</a> de Google.</div>
+              </div>
+</div>
+<div class="form-group">
+  <div class="form-check"><label class="custom-control-label" for="legal_ctc_1"><span class="wpcf7-form-control-wrap legal"><span class="wpcf7-form-control wpcf7-acceptance optional"><span class="wpcf7-list-item"><input type="checkbox" name="legal" value="1" aria-invalid="false" class="custom-control-input check-button__input" id="legal_ctc_1" /></span></span></span><span class="check-button__control"></span><span class="check-button__label">Deseo recibir información, promociones y ofertas de Edix y sus productos por cualquier vía, incluida la electrónica.</label></div>
+</div>
+
+<div class="form-group">
+  <input type="submit" class="cta -full-width -m--t-x6" value="Llamadme ahora">
+</div>
+
+<input type="hidden" name="carrera-elegida" value="" /><div class="wpcf7-response-output wpcf7-display-none" aria-hidden="true"></div></form></div>        </div>
+      </div>
+    </div>
+    </div>
+  </div>
+
+  
+
+</main>
+<footer id="footer" class="mtno">
+    <div class="e-container">
+      <section class="upper-footer">
+        <div class="row">
+            <div class="col-12">
+              <p class="footer-title mb-lg-5 text-center">
+                <img class="mb-5 skip-lazy" src="https://www.edix.com/es/wp-content/themes/edix/images/modules/edx_logo_edix.svg" alt="Logo EDIX" />
+              </p>
+            </div>
+            <div class="col-md-6 col-xl-3">
+              <p class="footer-title">
+                                   <a title="Ir a https://www.edix.com/es/cursos/" href="https://www.edix.com/es/cursos/">
+                  Titulaciones destacadas                    </a>
+                              </p>
+            <div class="menu-titulaciones-destacadas-container"><ul id="menu-titulaciones-destacadas" class="menu"><li id="menu-item-51200" class="menu-item menu-item-type-post_type menu-item-object-grado menu-item-51200"><a href="https://www.edix.com/es/fp/daw-desarrollo-de-aplicaciones-web/">Grado superior FP DAW</a></li>
+<li id="menu-item-53402" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-53402"><a href="https://www.edix.com/es/cursos/contenidos-digitales/">Curso content manager</a></li>
+<li id="menu-item-53405" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-53405"><a href="https://www.edix.com/es/cursos/ecommerce/">Curso de ecommerce</a></li>
+<li id="menu-item-53416" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-53416"><a href="https://www.edix.com/es/cursos/campanas-publicitarias/">Curso de campañas publicitarias</a></li>
+<li id="menu-item-53417" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-53417"><a href="https://www.edix.com/es/cursos/salesforce/">Curso de Salesforce</a></li>
+</ul></div>  
+          </div>
+		      <div class="col-md-6 col-xl-3">
+            <p class="footer-title">
+                                  <a title="Ir a https://www.edix.com/es/revolucion-profesional/" href="https://www.edix.com/es/revolucion-profesional/">
+                  Sobre Edix                    </a>
+                              </p>
+             <div class="menu-sobre-edix-container"><ul id="menu-sobre-edix" class="menu"><li id="menu-item-20021" class="modal-phone menu-item menu-item-type-custom menu-item-object-custom menu-item-20021"><a href="#" data-target="#modal-phone" data-toggle="modal">Contacto</a></li>
+<li id="menu-item-53431" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-53431"><a href="https://www.edix.com/es/action-learning/">Action Learning</a></li>
+<li id="menu-item-53441" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-53441"><a href="https://www.edix.com/es/revolucion-profesional/becas/superbecas/">Super becas</a></li>
+<li id="menu-item-53435" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-53435"><a href="https://www.edix.com/es/revolucion-profesional/becas/superbecas-fp/">Super becas FP</a></li>
+<li id="menu-item-33976" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33976"><a href="https://www.edix.com/es/sobre/profesiones-con-futuro/">Profesiones con futuro</a></li>
+<li id="menu-item-40807" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-40807"><a href="https://www.edix.com/es/instituto/formacion/formacion/">Formación continua</a></li>
+</ul></div>  
+          </div>
+		      <div class="col-md-6 col-xl-3">
+            <p class="footer-title">
+              Comunidad            </p>
+            <div class="menu-comunidad-container"><ul id="menu-comunidad" class="menu"><li id="menu-item-33958" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33958"><a href="https://www.edix.com/es/comunidad/eventos/">Eventos Open Edix</a></li>
+<li id="menu-item-33955" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33955"><a href="https://www.edix.com/es/revolucion-profesional/opiniones/">Opiniones de alumnos</a></li>
+<li id="menu-item-33977" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33977"><a href="https://www.edix.com/es/revolucion-profesional/empleos-alumni/">Casos de éxito</a></li>
+<li id="menu-item-40808" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-40808"><a href="https://www.edix.com/es/sobre/digital-workers/">Digital Workers</a></li>
+</ul></div>  
+          </div>
+		      <div class="col-md-6 col-xl-3">
+            <p class="footer-title">
+                                  <a title="Ir a https://www.edix.com/es/blog/" href="https://www.edix.com/es/blog/">
+                  En el blog                    </a>
+                              </p>
+             <div class="menu-en-el-blog-container"><ul id="menu-en-el-blog" class="menu"><li id="menu-item-51185" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-51185"><a href="https://www.edix.com/es/instituto/como-ser-programador/">Cómo ser programador</a></li>
+<li id="menu-item-51188" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-51188"><a href="https://www.edix.com/es/instituto/carreras-teletrabajo/">Cursos para teletrabajar</a></li>
+<li id="menu-item-51191" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-51191"><a href="https://www.edix.com/es/instituto/por-que-aprender-programar/">¿Por qué aprender a programar?</a></li>
+<li id="menu-item-51193" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-51193"><a href="https://www.edix.com/es/instituto/sueldo-medio-espana/">Sueldo medio en España</a></li>
+<li id="menu-item-51194" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-51194"><a href="https://www.edix.com/es/instituto/funnel-pirata/">Funnel pirata AARRR</a></li>
+<li id="menu-item-51196" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-51196"><a href="https://www.edix.com/es/instituto/profesiones-mas-demandadas/">Profesiones del futuro</a></li>
+<li id="menu-item-51199" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-51199"><a href="https://www.edix.com/es/instituto/trabajos-mejor-pagados/">Profesiones mejor pagadas</a></li>
+</ul></div>  
+          </div>
+      </div>
+     </section>
+     <section class="downer-footer">
+        <div class="downer-footer__rrss">
+          <ul class="social inline">
+                      <li class="mr-3" >
+              <span class="shoot-link-blank" data-href="https://www.facebook.com/EdixEducaci%C3%B3n-110247883847811/" title="Ir a Facebook Edix">
+                <img src="https://www.edix.com/es/wp-content/themes/edix/images/facebook.svg" alt="logo de Facebook" title="logo de Facebook" class="skip-lazy"/>
+              </span>
+            </li>
+                      <li class="mr-3" >
+              <span class="shoot-link-blank" data-href="https://www.instagram.com/edixeducacion/" title="Ir a Instagram Edix">
+                <img src="https://www.edix.com/es/wp-content/themes/edix/images/instagram.svg" alt="logo de Instagram" title="logo de Instagram" class="skip-lazy"/>
+              </span>
+            </li>
+                      <li class="mr-3" >
+              <span class="shoot-link-blank" data-href="https://twitter.com/EdixEducacion" title="Ir a Twitter Edix">
+                <img src="https://www.edix.com/es/wp-content/themes/edix/images/twitter.svg" alt="logo de Twitter" title="logo de Twitter" class="skip-lazy"/>
+              </span>
+            </li>
+                      <li class="mr-3" >
+              <span class="shoot-link-blank" data-href="https://es.linkedin.com/company/edix-educacion  " title="Ir a Linkedin Edix">
+                <img src="https://www.edix.com/es/wp-content/themes/edix/images/linkedin.svg" alt="logo de Linkedin" title="logo de Linkedin" class="skip-lazy"/>
+              </span>
+            </li>
+                      <li class="mr-3" >
+              <span class="shoot-link-blank" data-href="https://www.youtube.com/EdixEducacion?sub_confirmation=1" title="Ir a Youtube Edix">
+                <img src="https://www.edix.com/es/wp-content/themes/edix/images/youtube.svg" alt="logo de Youtube" title="Youtube" class="skip-lazy"/>
+              </span>
+            </li>
+                 
+          </ul>
+          <div class="downer-footer__legal">
+            <p class="legal">
+              <a href="https://www.edix.com/es/legal/" title="Privacidad, cookies y condiciones legales">Privacidad, cookies y condiciones legales</a> <span class="downer-footer__gap">|</span> <a href="https://www.edix.com/es/a-un-clic/" title="Navegación">Navegación</a> 
+              <span class="downer-footer__copyright">Copyright © 2021 Edix</span>   
+            </p>
+          </div>
+        </div>
+
+        <div class="downer-footer__company">
+          <!--foreach logos + logo ministerio (mb-4) -->
+          <img class="downer-footer__img" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="Logo Unir" data-lazy-src="https://www.edix.com/es/wp-content/themes/edix/images/LogoUnirBlanco.svg" /><noscript><img class="downer-footer__img" src="https://www.edix.com/es/wp-content/themes/edix/images/LogoUnirBlanco.svg" alt="Logo Unir" /></noscript>
+          <img class="downer-footer__img" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="Logo Proeduca" data-lazy-src="https://www.edix.com/es/wp-content/themes/edix/images/logo-proeduca.svg"><noscript><img class="downer-footer__img" src="https://www.edix.com/es/wp-content/themes/edix/images/logo-proeduca.svg" alt="Logo Proeduca"></noscript>
+          <img class="downer-footer__img" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="Logo Comunidad de Madrid" data-lazy-src="https://www.edix.com/es/wp-content/themes/edix/images/logo-comunidad-de-madrid.png"><noscript><img class="downer-footer__img" src="https://www.edix.com/es/wp-content/themes/edix/images/logo-comunidad-de-madrid.png" alt="Logo Comunidad de Madrid"></noscript>
+          <img class="downer-footer__img" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="Logo Ministerio de Educación de España" data-lazy-src="https://www.edix.com/es/wp-content/themes/edix/images/logo-ministerio-educacion.png"><noscript><img class="downer-footer__img" src="https://www.edix.com/es/wp-content/themes/edix/images/logo-ministerio-educacion.png" alt="Logo Ministerio de Educación de España"></noscript>
+        </div>
+      </section>
+      
+    </div>
+  </footer>
+
+<!-- modal container-->
+<div id="modal-phone" class="modal fade small" tabindex="-1" role="dialog" aria-labelledby="modal" aria-hidden="true" data-type="modal-old">
+  <div class="modal-dialog modal-md modal-dialog-centered">
+    <div class="modal-content">
+      <button type="button" class="close" data-dismiss="modal" aria-label="Close" data-dismiss-all="true">
+          <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="22px" height="22px" viewBox="0 0 22 22" version="1.1" alt="cerrar" title="cerrar">
+            <g transform="translate(-750.000000, -1401.000000)" fill="#000000" fill-rule="nonzero">
+              <g id="Group" transform="translate(749.000000, 1400.000000)">
+                <rect id="Rectangle" transform="translate(11.989581, 11.990509) rotate(-135.605335) translate(-11.989581, -11.990509) " x="-2.83410042" y="10.7545291" width="29.6473631" height="2.47195968" rx="1.23597984"></rect>
+                <rect id="Rectangle" transform="translate(11.990970, 11.990492) rotate(134.419160) translate(-11.990970, -11.990492) " x="-2.83271172" y="10.7545628" width="29.6473631" height="2.47185909" rx="1.23592955"></rect>
+              </g>
+            </g>
+          </svg>
+        </button>
+      <div class="content">
+        <h4 class="mtno">Te llamamos</h4>
+        <div role="form" class="wpcf7" id="wpcf7-f48340-o5" lang="es-ES" dir="ltr">
+<div class="screen-reader-response" aria-live="polite"></div>
+<form action="/es/instituto/front-end-developer/#wpcf7-f48340-o5" method="post" class="wpcf7-form" novalidate="novalidate">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="48340" />
+<input type="hidden" name="_wpcf7_version" value="5.1.9" />
+<input type="hidden" name="_wpcf7_locale" value="es_ES" />
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f48340-o5" />
+<input type="hidden" name="_wpcf7_container_post" value="0" />
+<input type="hidden" name="g-recaptcha-response" value="" />
+</div>
+<div class="form-row">
+  <div class="form-group col-3">
+    <span class="wpcf7-form-control-wrap phone-prefix"><input type="text" name="phone-prefix" value="+34" size="40" class="wpcf7-form-control wpcf7-text form-control" aria-invalid="false" /></span>
+  </div>
+  <div class="form-group col-9">
+    <span class="wpcf7-form-control-wrap phone"><input type="tel" name="phone" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-tel wpcf7-validates-as-required wpcf7-validates-as-tel form-control" aria-required="true" aria-invalid="false" placeholder="Teléfono móvil" /></span>
+  </div>
+</div>
+
+<div class="form-row">
+
+                <div class="col-12">
+                  <div class="legal-text d-block grey-border">Edix (de forma conjunta, como corresponsables del tratamiento EDIX EDUCACIÓN, S.A.U. y PROINNOVA EUROPA S.L.U.), tratará los datos de carácter personal que nos has proporcionado con la finalidad de atender a tu solicitud de envío de información acerca de los productos, servicios, promociones y ofertas del Edix y de otras empresas del grupo Proinnova, por vía telefónica o electrónica. Podrás revocar el consentimiento otorgado, así como ejercitar los derechos reconocidos en los artículos 15 a 22 del Reglamento (UE) 2016/679, mediante solicitud dirigida a c/ Arvaca 12, 28040, Madrid, España, o a la siguiente dirección de correo electrónico: rgpd@edix.com, adjuntando copia de su DNI o documentación acreditativa de su identidad. Si lo deseas puede consultar información adicional y detallada sobre Protección de Datos pinchando <a href="/es/legal/#PoliticaDePrivacidad" target="_blank">aquí</a>. Esta web está protegida por reCAPTCHA y aplica la <a href="https://policies.google.com/privacy" rel="nofollow">Política de Privacidad</a> y <a href="https://policies.google.com/terms" rel="nofollow">Términos de Servicio</a> de Google.</div>
+              </div>
+</div>
+<div class="form-group">
+  <div class="form-check"><label class="custom-control-label" for="legal_ctc_1"><span class="wpcf7-form-control-wrap legal"><span class="wpcf7-form-control wpcf7-acceptance optional"><span class="wpcf7-list-item"><input type="checkbox" name="legal" value="1" aria-invalid="false" class="custom-control-input check-button__input" id="legal_ctc_1" /></span></span></span><span class="check-button__control"></span><span class="check-button__label">Deseo recibir información, promociones y ofertas de Edix y sus productos por cualquier vía, incluida la electrónica.</label></div>
+</div>
+
+<div class="form-group">
+  <input type="submit" class="cta -full-width -m--t-x6" value="Llamadme ahora">
+</div>
+
+<input type="hidden" name="carrera-elegida" value="" /><div class="wpcf7-response-output wpcf7-display-none" aria-hidden="true"></div></form></div>      </div>
+    </div>
+  </div>
+</div>
+
+<!--Video modal container-->
+<div id="video_modal" class="modal fade video_lg" tabindex="-1" role="dialog" aria-labelledby="video_modal" aria-hidden="true">
+  <div class="modal-dialog modal-lg">
+      <div class="modal-content">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Cerrar">
+            <img aria-hidden="true" src="https://www.edix.com/es/wp-content/themes/edix/images/cross-white.svg" alt="cerrar" title="cerrar" class="skip-lazy"/>
+        </button>
+          <iframe class="iframe" src="" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen="" width="100%" height="100%"></iframe>
+      </div>
+  </div>
+</div>
+
+<div
+  id="modal-moreinfo"
+  class="modal fade"
+  tabindex="-1"
+  role="dialog"
+  aria-labelledby="modal"
+  aria-hidden="true"
+>
+  <div class="modal-dialog modal-md modal-dialog-centered">
+    <div class="modal-content">
+      <button type="button" class="close" data-dismiss="modal" aria-label="Cerrar">
+        <img aria-hidden="true" src="https://www.edix.com/es/wp-content/themes/edix/images/cross.svg" alt="cerrar" title="cerrar" class="skip-lazy"/>
+      </button>
+      <div class="content">
+        <div role="form" class="wpcf7" id="wpcf7-f48562-o6" lang="es-ES" dir="ltr">
+<div class="screen-reader-response" aria-live="polite"></div>
+<form action="/es/instituto/front-end-developer/#wpcf7-f48562-o6" method="post" class="wpcf7-form" novalidate="novalidate">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="48562" />
+<input type="hidden" name="_wpcf7_version" value="5.1.9" />
+<input type="hidden" name="_wpcf7_locale" value="es_ES" />
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f48562-o6" />
+<input type="hidden" name="_wpcf7_container_post" value="0" />
+<input type="hidden" name="g-recaptcha-response" value="" />
+</div>
+<p class="-text-center h6 mtno">Información sin compromiso</p>
+<div class="form-group">
+  <span class="wpcf7-form-control-wrap nombre"><input type="text" name="nombre" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required form-control" aria-required="true" aria-invalid="false" placeholder="Nombre" /></span>
+</div>
+<div class="form-group">
+  <span class="wpcf7-form-control-wrap apellidos"><input type="text" name="apellidos" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required form-control" aria-required="true" aria-invalid="false" placeholder="Apellidos" /></span>
+</div>
+<div class="form-group">
+  <span class="wpcf7-form-control-wrap email"><input type="email" name="email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email form-control display-legal-text" aria-required="true" aria-invalid="false" placeholder="Email" /></span>
+</div>
+<div class="form-row">
+  <div class="form-group col-3">
+    <span class="wpcf7-form-control-wrap phone-prefix"><input type="text" name="phone-prefix" value="+34" size="40" class="wpcf7-form-control wpcf7-text form-control" aria-invalid="false" /></span>
+  </div>
+  <div class="form-group col-9">
+    <span class="wpcf7-form-control-wrap phone"><input type="tel" name="phone" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-tel wpcf7-validates-as-required wpcf7-validates-as-tel form-control" aria-required="true" aria-invalid="false" placeholder="Teléfono móvil" /></span>
+  </div>
+</div>
+
+<div class="form-row">
+  <div class="form-group col-12">
+    <span class="wpcf7-form-control-wrap carrera-elegida">
+	<select name="carrera-elegida" class="wpcf7-form-control wpcf7-select wpcf7-validates-as-required form-control" aria-required="true" aria-invalid="false">
+		<option value="">Selecciona una titulación</option>
+		<option value="Experto en Digital Content">Bootcamp Digital Content</option>
+		<option value="Bootcamp 4: Content Maker">Bootcamp Creador de Contenidos Digitales</option>
+		<option value="Experto en Marketing Data Analytics">Bootcamp Marketing Data Analytics</option>
+		<option value="Experto en CRO">Bootcamp CRO</option>
+		<option value="Experto en SEO">Bootcamp SEO</option>
+		<option value="Bootcamp 4: SEO Content">Bootcamp 4: SEO Content</option>
+		<option value="Bootcamp 4: Salesforce">Bootcamp 4: Salesforce</option>
+		<option value="Experto en Ecommerce">Bootcamp Ecommerce</option>
+		<option value="Bootcamp 4: Crea una tienda con Shopify">Bootcamp Gestor de Tiendas Online con Shopify</option>
+		<option value="Experto en Marketing Digital">Bootcamp Marketing Digital</option>
+		<option value="Experto en Growth Marketing">Bootcamp Growth Marketing</option>
+		<option value="Bootcamp 4: Técnico en campañas Publicitarias">Bootcamp Técnico en Campañas Publicitarias Digitales</option>
+		<option value="Administración y Finanzas">Grado FP Administración y Finanzas</option>
+		<option value="Administración de Sistemas Informáticos en Red (ASIR)">Grado FP ASIR</option>
+		<option value="Grado FP DAM">Grado FP DAM</option>
+		<option value="Grado FP DAW">Grado FP DAW</option>
+		<option value="Marketing y Publicidad">Grado FP Marketing y Publicidad</option>
+		<option value="Máster FP en Ciberseguridad">Máster FP Ciberseguridad</option>
+		<option value="Máster FP en Big Data">Máster FP Big Data</option>
+		<option value="Máster FP en IA y Big Data">Máster FP IA y Big Data</option>
+	</select>
+</span>
+  </div>
+</div>
+
+<div class="form-row">
+
+                <div class="col-12">
+                  <div class="legal-text d-block grey-border">Edix (de forma conjunta, como corresponsables del tratamiento EDIX EDUCACIÓN, S.A.U. y PROINNOVA EUROPA S.L.U.), tratará los datos de carácter personal que nos has proporcionado con la finalidad de atender a tu solicitud de envío de información acerca de los productos, servicios, promociones y ofertas del Edix y de otras empresas del grupo Proinnova, por vía telefónica o electrónica. Podrás revocar el consentimiento otorgado, así como ejercitar los derechos reconocidos en los artículos 15 a 22 del Reglamento (UE) 2016/679, mediante solicitud dirigida a c/ Arvaca 12, 28040, Madrid, España, o a la siguiente dirección de correo electrónico: rgpd@edix.com, adjuntando copia de su DNI o documentación acreditativa de su identidad. Si lo deseas puede consultar información adicional y detallada sobre Protección de Datos pinchando <a href="/es/legal/#PoliticaDePrivacidad" target="_blank">aquí</a>.</div>
+              </div>
+
+</div>
+
+<p class="submit"><input class="cta--bg -full-width wpcf7-submit" type="submit" value="Solicitar información" data-modal="button-modal" data-modal-id="stepTwo" data-contac-form="true"><span class="ajax-loader"></span></p><div class="wpcf7-response-output wpcf7-display-none" aria-hidden="true"></div></form></div>      </div>
+    </div>
+  </div>
+</div>
+
+<!--Newsletter modal container-->
+<!--
+<div
+  id="newsletter_modal"
+  class="modal fade"
+  tabindex="-1"
+  role="dialog"
+  aria-labelledby="newsletter_modal"
+  aria-hidden="true">
+  <div class="modal-dialog modal-sm modal-dialog-centered">
+    <div class="modal-content form-inside text-white with-head section newsletter-bg coloured b-radius">
+      <button type="button" class="close" data-dismiss="modal" aria-label="Cerrar">
+        <img aria-hidden="true" src="https://www.edix.com/es/wp-content/themes/edix/images/cross.svg" alt="cerrar" title="cerrar" class="skip-lazy"/>
+      </button>
+      <div class="container">
+        <div class="row">
+          <div class="col-12">
+            <p class="title h4 nm">¿Quieres estar al día de becas, promociones o nuevas carreras Edix?</p>
+            <p class="text-small">¡Déjanos tu correo y te mantendremos informado!</p>
+              <div role="form" class="wpcf7" id="wpcf7-f5678-o7" lang="es-ES" dir="ltr">
+<div class="screen-reader-response" aria-live="polite"></div>
+<form action="/es/instituto/front-end-developer/#wpcf7-f5678-o7" method="post" class="wpcf7-form" novalidate="novalidate">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="5678" />
+<input type="hidden" name="_wpcf7_version" value="5.1.9" />
+<input type="hidden" name="_wpcf7_locale" value="es_ES" />
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f5678-o7" />
+<input type="hidden" name="_wpcf7_container_post" value="0" />
+<input type="hidden" name="g-recaptcha-response" value="" />
+</div>
+<div class="form-group"><span class="wpcf7-form-control-wrap nombre"><input type="text" name="nombre" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required form-control" aria-required="true" aria-invalid="false" placeholder="Nombre" /></span></div>
+<div class="form-group"><span class="wpcf7-form-control-wrap email"><input type="email" name="email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email form-control" aria-required="true" aria-invalid="false" placeholder="Dirección de email" /></span></div>
+
+<div class="form-group"><div class="col">
+    <div class="legal-text d-block grey-border">Edix (de forma conjunta, como corresponsables del tratamiento EDIX EDUCACIÓN, S.A.U. y PROINNOVA EUROPA S.L.U.), tratará los datos de carácter personal que nos has proporcionado con la finalidad de enviarle nuestro boletín quincenal Vitamina E, la newsletter acerca del mundo de la formación y el empleo digitales. Podrás revocar el consentimiento otorgado, así como ejercitar los derechos reconocidos en los artículos 15 a 22 del Reglamento (UE) 2016/679, mediante solicitud dirigida a c/ Arvaca 12, 28040, Madrid, España, o a la siguiente dirección de correo electrónico: <a href="mailto:rgpd@edix.com">rgpd@edix.com</a>, adjuntando copia de su DNI o documentación acreditativa de su identidad. Si lo deseas puede consultar información adicional y detallada sobre <a href="/es/legal/#PoliticaDePrivacidad">Protección de Datos pinchando <b>aquí</b></a>.</div>
+</div></div>
+
+<div class="form-row">
+  <div class="form-group col-xl-7">
+<div class="form-check"><label class="custom-control-label" for="legal_modnews"><span class="wpcf7-form-control-wrap legal"><span class="wpcf7-form-control wpcf7-acceptance optional"><span class="wpcf7-list-item"><input type="checkbox" name="legal" value="1" aria-invalid="false" class="custom-control-input check-button__input" id="legal_modnews" /></span></span></span><span class="check-button__control"></span><span class="check-button__label">Deseo recibir información Edix y sus productos por cualquier vía, incluida la electrónica.</label></div></div>
+  <p class="col-xl-5 text-right"><input type="submit" value="Suscríbete" class="wpcf7-form-control wpcf7-submit btn btn-cta" /></p>
+
+<input type="hidden" name="newsletter" value="true" class="wpcf7-form-control wpcf7-hidden" />
+</div><div class="wpcf7-response-output wpcf7-display-none" aria-hidden="true"></div></form></div>          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+-->
+
+ <!-- 4.0 : modal te enviamos programa-->
+   <div
+    id="modal-programa"
+    class="modal fade"
+    tabindex="-1"
+    role="dialog"
+    aria-labelledby="modal"
+    aria-hidden="true"
+  >
+    <div class="modal-dialog modal-sm modal-dialog-centered">
+      <div class="modal-content form-inside">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Cerrar">
+          <img aria-hidden="true" src="https://www.edix.com/es/wp-content/themes/edix/images/cross.svg" alt="cerrar" title="cerrar" class="skip-lazy"/>
+        </button>
+        <div class="content">
+          <div class="head">
+            <p class="name h4 mtno">
+              Te enviamos el programa
+            </p>
+            <div role="form" class="wpcf7" id="wpcf7-f3775-o8" lang="es-ES" dir="ltr">
+<div class="screen-reader-response" aria-live="polite"></div>
+<form action="/es/instituto/front-end-developer/#wpcf7-f3775-o8" method="post" class="wpcf7-form" novalidate="novalidate">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="3775" />
+<input type="hidden" name="_wpcf7_version" value="5.1.9" />
+<input type="hidden" name="_wpcf7_locale" value="es_ES" />
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f3775-o8" />
+<input type="hidden" name="_wpcf7_container_post" value="0" />
+<input type="hidden" name="g-recaptcha-response" value="" />
+</div>
+<div class="form-group"><span class="wpcf7-form-control-wrap email"><input type="email" name="email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email form-control display-legal-text" aria-required="true" aria-invalid="false" placeholder="Escribe tu email" /></span></div>
+<div class="form-row">
+                <div class="col-12">
+                  <div class="legal-text">EDIX EDUCACIÓN S.A. (en adelante, Edix), tratará los datos de carácter personal que nos has proporcionado con la finalidad de atender a tu solicitud de información acerca de los diferentes cursos, productos y/o servicios ofrecidos por Edix, incluido por vía telefónica, así como para mantenerte informado de nuestra actividad. Podrás revocar el consentimiento otorgado, así como ejercitar los derechos reconocidos en los artículos 15 a 22 del Reglamento (UE) 2016/679, mediante solicitud dirigida a C/ Zurbano 73, 28010, Madrid, España, o a la siguiente dirección de correo electrónico: <a href="mailto:rgpd@edix.com">rgpd@edix.com</a>, adjuntando copia de su DNI o documentación acreditativa de su identidad.  Si lo deseas puede consultar información adicional y detallada sobre <a href="/es/legal/#PoliticaDePrivacidad">Protección de Datos pinchando <b>aquí</b></a>.</div>
+              </div>
+    </div>
+<div class="form-row">
+  <div class="form-group col-xl-7">
+<div class="form-check"><label class="custom-control-label" for="legal"><span class="wpcf7-form-control-wrap legal"><span class="wpcf7-form-control wpcf7-acceptance optional"><span class="wpcf7-list-item"><input type="checkbox" name="legal" value="1" aria-invalid="false" class="custom-control-input check-button__input" id="legal" /></span></span></span><span class="check-button__control"></span><span class="check-button__label">Deseo recibir información Edix y sus productos por cualquier vía, incluida la electrónica.</label></div></div>
+  <p class="col-xl-5 text-right"><input type="submit" value="Solicitar" class="wpcf7-form-control wpcf7-submit btn" /></p>
+</div>
+
+<input type="hidden" name="carrera-elegida" value="" /><div class="wpcf7-response-output wpcf7-display-none" aria-hidden="true"></div></form></div>          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+<script type='text/javascript' src='https://code.jquery.com/jquery-3.4.1.min.js?ver=3.4.1' id='jquery-js' defer></script>
+<script type='text/javascript' id='contact-form-7-js-extra'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/www.edix.com\/es\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"cached":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.edix.com/es/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.1.9' id='contact-form-7-js' defer></script>
+<script type='text/javascript' src='https://www.google.com/recaptcha/api.js?render=6LfpWL0aAAAAANmFEoNrUYFL9EVLKNLwylGPH8si&#038;ver=3.0' id='google-recaptcha-js'></script>
+<script type='text/javascript' src='https://www.edix.com/es/wp-content/themes/edix/js/swiper.min.js?ver=1.0.0' id='edix-swiper-js' defer></script>
+<script type='text/javascript' src='https://www.edix.com/es/wp-content/themes/edix/js/jquery.touchSwipe.min.js?ver=12' id='edix-touchswipe-js' defer></script>
+<script type='text/javascript' src='https://www.edix.com/es/wp-content/themes/edix/js/wow.js?ver=12_2' id='edix-wow-js' defer></script>
+<script type='text/javascript' id='edix-scripts-js-extra'>
+/* <![CDATA[ */
+var get_stylesheet_directory_uri = "https:\/\/www.edix.com\/es\/wp-content\/themes\/edix\/";
+var core_info = {"ajaxurl":"https:\/\/www.edix.com\/es\/wp-admin\/admin-ajax.php","post_id":"46262","type":"post"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.edix.com/es/wp-content/themes/edix/js/js.js?ver=20220907' id='edix-scripts-js' defer></script>
+<script type='text/javascript' src='https://www.edix.com/es/wp-content/themes/edix/js/header.js?ver=20220907' id='edix-40-scripts-js' defer></script>
+<script type='text/javascript' src='https://www.edix.com/es/wp-content/themes/edix/js/form-search.js?ver=20220907' id='edix-40-serach-js' defer></script>
+<script type='text/javascript' src='https://www.edix.com/es/wp-content/themes/edix/js/modal.js?ver=20220907' id='edix-40-modal-js' defer></script>
+<script type='text/javascript' src='https://www.edix.com/es/wp-content/themes/edix/assets/js/js.cookie.min.js?ver=0.0.1' id='edix-js-cookie-js' defer></script>
+<script type='text/javascript' id='edix-theme-js-js-extra'>
+/* <![CDATA[ */
+var ajax_var = {"url":"https:\/\/www.edix.com\/es\/wp-admin\/admin-ajax.php","nonce":"b739b35bc1","action":"event-old-list"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.edix.com/es/wp-content/themes/edix/assets/js/edix-theme.js?ver=20220907' id='edix-theme-js-js' defer></script>
+<script type='text/javascript' src='https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js?ver=1.14.6' id='edix-popper-js' defer></script>
+<script type='text/javascript' src='https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js?ver=4.4.1' id='edix-bootstrap-js' defer></script>
+<script type='text/javascript' src='https://www.edix.com/es/wp-content/themes/raiz/js/navigation.js?ver=20151215' id='raiz-navigation-js' defer></script>
+<script type='text/javascript' src='https://www.edix.com/es/wp-content/themes/raiz/js/skip-link-focus-fix.js?ver=20151215' id='raiz-skip-link-focus-fix-js' defer></script>
+<script type='text/javascript' src='https://www.edix.com/es/wp-includes/js/comment-reply.min.js?ver=5.7.1' id='comment-reply-js' defer></script>
+<script type='text/javascript' src='https://www.edix.com/es/wp-includes/js/wp-embed.min.js?ver=5.7.1' id='wp-embed-js' defer></script>
+<script type="text/javascript">
+( function( sitekey, actions ) {
+
+	document.addEventListener( 'DOMContentLoaded', function( event ) {
+		var wpcf7recaptcha = {
+
+			execute: function( action ) {
+				grecaptcha.execute(
+					sitekey,
+					{ action: action }
+				).then( function( token ) {
+					var event = new CustomEvent( 'wpcf7grecaptchaexecuted', {
+						detail: {
+							action: action,
+							token: token,
+						},
+					} );
+
+					document.dispatchEvent( event );
+				} );
+			},
+
+			executeOnHomepage: function() {
+				wpcf7recaptcha.execute( actions[ 'homepage' ] );
+			},
+
+			executeOnContactform: function() {
+				wpcf7recaptcha.execute( actions[ 'contactform' ] );
+			},
+
+		};
+
+		grecaptcha.ready(
+			wpcf7recaptcha.executeOnHomepage
+		);
+
+		document.addEventListener( 'change',
+			wpcf7recaptcha.executeOnContactform, false
+		);
+
+		document.addEventListener( 'wpcf7submit',
+			wpcf7recaptcha.executeOnHomepage, false
+		);
+
+	} );
+
+	document.addEventListener( 'wpcf7grecaptchaexecuted', function( event ) {
+		var fields = document.querySelectorAll(
+			"form.wpcf7-form input[name='g-recaptcha-response']"
+		);
+
+		for ( var i = 0; i < fields.length; i++ ) {
+			var field = fields[ i ];
+			field.setAttribute( 'value', event.detail.token );
+		}
+	} );
+
+} )(
+	'6LfpWL0aAAAAANmFEoNrUYFL9EVLKNLwylGPH8si',
+	{"homepage":"homepage","contactform":"contactform"}
+);
+</script>
+<script>window.lazyLoadOptions={elements_selector:"img[data-lazy-src],.rocket-lazyload",data_src:"lazy-src",data_srcset:"lazy-srcset",data_sizes:"lazy-sizes",class_loading:"lazyloading",class_loaded:"lazyloaded",threshold:300,callback_loaded:function(element){if(element.tagName==="IFRAME"&&element.dataset.rocketLazyload=="fitvidscompatible"){if(element.classList.contains("lazyloaded")){if(typeof window.jQuery!="undefined"){if(jQuery.fn.fitVids){jQuery(element).parent().fitVids()}}}}}};window.addEventListener('LazyLoad::Initialized',function(e){var lazyLoadInstance=e.detail.instance;if(window.MutationObserver){var observer=new MutationObserver(function(mutations){var image_count=0;var iframe_count=0;var rocketlazy_count=0;mutations.forEach(function(mutation){for(i=0;i<mutation.addedNodes.length;i++){if(typeof mutation.addedNodes[i].getElementsByTagName!=='function'){return}
+if(typeof mutation.addedNodes[i].getElementsByClassName!=='function'){return}
+images=mutation.addedNodes[i].getElementsByTagName('img');is_image=mutation.addedNodes[i].tagName=="IMG";iframes=mutation.addedNodes[i].getElementsByTagName('iframe');is_iframe=mutation.addedNodes[i].tagName=="IFRAME";rocket_lazy=mutation.addedNodes[i].getElementsByClassName('rocket-lazyload');image_count+=images.length;iframe_count+=iframes.length;rocketlazy_count+=rocket_lazy.length;if(is_image){image_count+=1}
+if(is_iframe){iframe_count+=1}}});if(image_count>0||iframe_count>0||rocketlazy_count>0){lazyLoadInstance.update()}});var b=document.getElementsByTagName("body")[0];var config={childList:!0,subtree:!0};observer.observe(b,config)}},!1)</script><script data-no-minify="1" async src="https://www.edix.com/es/wp-content/plugins/wp-rocket/assets/js/lazyload/16.1/lazyload.min.js"></script></body>
+</html>
+
+<!-- This website is like a Rocket, isn't it? Performance optimized by WP Rocket. Learn more: https://wp-rocket.me - Debug: cached@1667382749 -->
